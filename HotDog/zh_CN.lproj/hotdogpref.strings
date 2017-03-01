@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>STATUS_BAR_TITLE</key>
+	<string>状态栏</string>
+
+	<key>LOCKSCREEN_DATETIME_TITLE</key>
+	<string>锁定屏幕 时间|日期</string>
+
+	<key>SLIDE_TO_UNLOCK_TITLE</key>
+	<string>自定义“滑动滑块以解锁”文本</string>
+
+	<key>PASSCODE_LOCK_VIEW_TITLE</key>
+	<string>锁屏密码界面</string>
+
+	<key>PHONE_UI_TITLE</key>
+	<string>手机图标（UI）</string>
+
+	<key>NOTIFICATIONS_TITLE</key>
+	<string>通知</string>
+
+	<key>POWERDOWN_TITLE</key>
+	<string>关机</string>
+
+	<key>MEDIA_CONTROLS_TITLE</key>
+	<string>Media</string>
+
+	<key>OTHERS_TITLE</key>
+	<string>其他</string>
+
+	<key>ABOUT</key>
+	<string>关注我</string>
+	<key>DONATE</key>
+	<string>通过PayPal捐赠</string>
+
+	<key>CREDITS</key>
+	<string>翻译人员名单</string>
+
+</dict>
+</plist>

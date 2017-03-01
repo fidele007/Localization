@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>DEFAULT</key>
+	<string>លំនាំដើម</string>
+
+	<key>SLIDE_TO_UNLOCK_TITLE</key>
+	<string>ឃ្លា «​អូស​ដើម្បី​ដោះ​សោ»</string>
+	<key>SLIDE_TO_UNLOCK_FOOTER</key>
+	<string>ឃ្លា​ទី​ ១ ជា​ឃ្លា «slide to unlock» ដែល​បង្ហាញ​ដំបូង​បង្អស់​លើ​អេក្រង់​ជាប់​សោ ចំណែក​ឯ​ឃ្លា​ទី ២ ជា​ឃ្លា​ដែល​បង្ហាញ​ពេល​ដែល​ប្រើ Touch ID បរាជ័យ ។</string>
+	<key>SLIDE_TO_UNLOCK_TEXT</key>
+	<string>អក្សរជំនួស slide to unlock</string>
+	<key>CUSTOM_COLOR</key>
+	<string>ពណ៌</string>
+	<key>PICK_COLOR</key>
+	<string>ជ្រើសពណ៌</string>
+	<key>DONE</key>
+	<string>រួចរាល់</string>
+	<key>POSITION</key>
+	<string>ទីតាំង</string>
+	<key>POSITION_FOOTER</key>
+	<string>X និង Y អាច​មាន​តម្លៃ​វិជ្ជមាន រឺ​អវិជ្ជមាន តួយ៉ាង ៥០ រឺ -៥០ ។ លុប​តម្លៃ​បញ្ចូលដើម្បី​ស្ដារ​តម្លៃ​ដើម ។</string>
+
+	<key>DEFAULT_STRING</key>
+	<string>ឃ្លា​ទី​ ១</string>
+	<key>SECONDARY_STRING</key>
+	<string>ឃ្លា​ទី ២</string>
+	<key>TRY_AGAIN</key>
+	<string>try again</string>
+	<key>HIDE_CHEVRON</key>
+	<string>លាក់ក្រចាប់</string>
+  <key>HIDE_PHRASE</key>
+  <string>លាក់ឃ្លា</string>
+	<key>SHOW_IMMEDIATELY</key>
+	<string>បង្ហាញ​ភ្លាម</string>
+  <key>FONT_SIZE</key>
+	<string>ទំហំ​អក្សរ</string>
+</dict>
+</plist>

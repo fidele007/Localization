@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>DEFAULT</key>
+	<string>Défaut</string>
+
+	<key>DONE</key>
+	<string>Sauvegarder</string>
+
+	<key>NOTIFICATIONS_TITLE</key>
+	<string>Notifications</string>
+	<key>NO_NOTIFICATIONS_TEXT</key>
+	<string>Aucune notification</string>
+	<key>RESPRING</key>
+	<string>Respring</string>
+
+	<key>POSITION</key>
+	<string>Position</string>
+	<key>ADDED_HEIGHT</key>
+	<string>Hauteur ajoutée</string>
+	<key>NOTIFICATIONS_POSITION_FOOTER_TEXT</key>
+	<string>Y change le positionnement vertical (l'ordonné) des notifications sur l'écran verrouillé. Vous pouvez aussi incrémenter ou décrementer la hauteur des notifications en utilisant «Hauter ajoutée».
+
+Y et «Hauter ajoutée» peuvent être un nombre positif ou négatif comme 50 ou -50. Enlevez la valeur entrée pour restaurer la valeur par défaut.</string>
+
+	<key>LOCK_SCREEN_NOTIFICATIONS</key>
+	<string>Notifications sur l'écran verrouillé</string>
+	<key>SUPPRESS_NOTIFICATIONS</key>
+	<string>Cacher les notifications</string>
+	<key>SUPPRESS_NOTIFICATIONS_WAKE</key>
+	<string>Ne pas réveiller l'écran</string>
+	<key>SUPPRESS_NOTIFICATIONS_SOUND</key>
+	<string>Désactiver les sons</string>
+	<key>LOCK_SCREEN_NOTIFICATIONS_FOOTER</key>
+	<string>Ces options vous permettent de cacher les notifications sur l'écran verrouillé, de ne pas réveiller l'écran lors de la réception des notifications et de sourdiner les sons de notification. Vous pouvez retrouver toutes les notifications dans le Centre de Notifications.</string>
+
+	<key>POSITION_CLOCK</key>
+	<string>Position (avec Horloge)</string>
+	<key>POSITION_MEDIA</key>
+	<string>Position (avec Média)</string>
+</dict>
+</plist>

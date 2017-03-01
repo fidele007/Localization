@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>HIDDEN_TEXT</key>
+	<string>មាន​តំណាល​ថា​ Hot dog រឺ​ហៅ​ម្យ៉ាង​ទៀត​ថា frankfurters មាន​ដើម​កំណើត​នៅ​ក្នុង​ទីក្រុង Frankfurt-am-Main ប្រទេស​អាល្លឺម៉ង់​ខ្ទង់​ឆ្នាំ ១៤៨៤ ។</string>
+	<key>RESPRING_TEXT</key>
+	<string>តើ​អ្នក​ចង់​ធ្វើ​ការ Respring ឥឡូវ​នេះ​ដើម្បី​រក្សា​ទុក​ការ​ផ្លាស់​ប្ដូរ​ដែរ​រឺ​ទេ?</string>
+	<key>LATER</key>
+	<string>ចាំ​ពេល​ក្រោយ</string>
+	<key>OK</key>
+	<string>យល់​ព្រម</string>
+</dict>
+</plist>

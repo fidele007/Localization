@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>MEDIA_FOOTER</key>
+	<string>X et Y peuvent être un nombre positif ou négatif comme 50 ou -50. Enlevez la valeur entrée pour restaurer la valeur par défaut. Pour la position de volume, il y a des valeurs par défaut indiquées dans les champs d'entrée.</string>
+
+	<key>MEDIA_CONTROLS_TITLE</key>
+	<string>Média</string>
+
+	<key>DEFAULT</key>
+	<string>Défaut</string>
+
+	<key>DONE</key>
+	<string>Sauvegarder</string>
+
+	<key>MEDIA_CONTROLS_POSITION</key>
+	<string>Position des contrôles de média</string>
+	<key>ALBUM_ART_POSITION</key>
+	<string>Position de couverture d'album</string>
+
+	<key>VOLUME_SLIDER_POSITION</key>
+	<string>Position de volume</string>
+	<key>VOLUME_SLIDER_Y</key>
+	<string>Espace (Écran verrouillé)</string>
+	<key>CC_VOLUME_SLIDER_Y</key>
+	<string>Espace (Centre de contrôle)</string>
+
+	<key>X_DEFAULT</key>
+	<string>X (Défaut)</string>
+	<key>Y_DEFAULT</key>
+	<string>Y (Défaut)</string>
+	<key>X_NOTIFICATIONS</key>
+	<string>X (Notifications)</string>
+	<key>Y_NOTIFICATIONS</key>
+	<string>Y (Notifications)</string>
+
+	<key>X_MEDIA</key>
+	<string>X (avec Média)</string>
+	<key>Y_MEDIA</key>
+	<string>Y (avec Média)</string>
+	<key>X_CLOCK</key>
+	<string>X (avec Horloge)</string>
+	<key>Y_CLOCK</key>
+	<string>Y (avec Horloge)</string>
+
+	<key>ALBUM_ART_SIZE</key>
+	<string>Taille de couverture d'album</string>
+</dict>
+</plist>

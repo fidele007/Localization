@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>OTHERS_TITLE</key>
+	<string>Autres</string>
+
+	<key>GRABBERS</key>
+	<string>Grabbers</string>
+
+	<key>HIDE_NC_GRABBER</key>
+	<string>Cacher la poignée de CN</string>
+
+	<key>HIDE_CC_GRABBER</key>
+	<string>Cacher la poignée de CC</string>
+
+	<key>HIDE_CAMERA_GRABBER</key>
+	<string>Cacher la poignée de l'Appareil photo</string>
+	<key>DISABLE_CAMERA</key>
+	<string>Désactiver l'Appareil photo</string>
+	<key>DISABLE_LOCK_SCREEN_BLUR_RADIUS</key>
+	<string>Désactiver le flou sur l'écr. verrouilé</string>
+
+	<key>DEFAULT</key>
+	<string>Défaut</string>
+
+	<key>DONE</key>
+	<string>Sauvegarder</string>
+
+	<key>CHARGING_VIEW_FOOTER</key>
+	<string>X et Y peuvent être un nombre positif ou négatif comme 50 ou -50. Enlevez la valeur entrée pour restaurer la valeur par défaut.</string>
+
+	<key>TIMER_VIEW_FOOTER</key>
+	<string>X et Y peuvent être un nombre positif ou négatif comme 50 ou -50. Enlevez la valeur entrée pour restaurer la valeur par défaut.</string>
+
+	<key>TIMER_VIEW</key>
+	<string>Minuteur</string>
+
+	<key>CHARGING_VIEW</key>
+	<string>Rechargement de batterie</string>
+
+	<key>HIDE_CHARGING_VIEW</key>
+	<string>Cacher la vue</string>
+	<key>ALWAYS_SHOW_CHARGING_VIEW</key>
+	<string>Afficher toujours</string>
+
+	<key>LOCKSCREEN_IDLE_DURATION</key>
+	<string>Duration de l'écran verrouillé</string>
+	<key>LOCKSCREEN_IDLE_DURATION_FOOTER</key>
+	<string>Ces options vous permettent de changer la duration (en secondes) avant que l'écran verouillé s'éteigne. Insérez -1 pour une duration infinie.</string>
+	<key>DURATION_NORMAL</key>
+	<string>Duration (Normale):</string>
+	<key>DURATION_DOCKED</key>
+	<string>Duration (Rechargement):</string>
+</dict>
+</plist>

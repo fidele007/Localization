@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>DEFAULT</key>
+	<string>Domyślny</string>
+
+	<key>LOCKSCREEN_DATETIME_TITLE</key>
+	<string>ZEGAR|DATA EKRANU BLOKADY</string>
+	<key>LOCKSCREEN_DATETIME_FOOTER</key>
+	<string>FORMAT ZEGARA|DATY:
+Dzień tygodnia: eee:Sob, eeee:Sobota
+Dzień miesiąca: d:4, dd:04
+Miesiąc: M:4, MM:04, MMM:Lip, MMMM:Lipiec, MMMMM:L
+Rok: y:2015, yy:15
+12-godzinny: h:9, hh:09
+24-godzinny: H:1, HH:01
+Minuty: m:4, mm:04
+Sekundy: s:5, ss:05 (Tylko dla iOS 8+)
+AM/PM: a
+Własny tekst: 'Tekst' (z '')
+Nowa linia: \n (Tylko dla DATY)
+
+Example:
+eeee|dd|MMMM|yyyy ==> Poniedziałek|13|Lipiec|2015
+
+Note:
+For now, for the time format to work correctly, you should disable 24-Hour Time in Settings &gt; General &gt; Date &amp; Time.
+</string>
+	<key>TIME_FORMAT</key>
+	<string>Format Zegara</string>
+	<key>TIME_FONT_SIZE</key>
+	<string>Wielkość Czcionki Zegara</string>
+	<key>DATE_FORMAT</key>
+	<string>Format Daty</string>
+	<key>DATE_FONT_SIZE</key>
+	<string>Wielkość Czcionki Daty</string>
+	<key>CUSTOM_COLOR</key>
+	<string>Własny Kolor Zegara|Daty</string>
+	<key>PICK_COLOR_DEFAULT</key>
+	<string>Primary Color</string>
+	<key>PICK_COLOR_WITH_NOTIFICATION</key>
+	<string>Secondary Color</string>
+
+	<key>DONE</key>
+	<string>Zatwierdź</string>
+
+	<key>POSITION_DEFAULT</key>
+	<string>Pozycja (Domyślny)</string>
+	<key>POSITION_FOOTER</key>
+	<string>Stanowisko akceptuje numery zarówno pozytywne jak i negatywne, na przykład 50 lub -50. Usuń wpis, aby przywrócić wartość domyślną.</string>
+
+	<key>FONT_SIZE</key>
+	<string>Rozmiar Czcionki</string>
+
+	<key>X_(TIME):</key>
+	<string>X (Zegara):</string>
+	<key>Y_(TIME):</key>
+	<string>Y (Zegara):</string>
+
+	<key>X_(DATE):</key>
+	<string>X (Daty):</string>
+	<key>Y_(DATE):</key>
+	<string>Y (Daty):</string>
+
+	<key>ALWAYS_SHOW_DATE_FOOTER_TEXT</key>
+	<string>While charging, turning on the lock screen view will first show the charging label and the Date label is shown only after the charging label disappears. This option will enable the Date label to be shown immediately. This is useful if you change the Date label's position.</string>
+	<key>ALWAYS_SHOW_DATE</key>
+	<string>Show Date immediately</string>
+
+  <key>ENABLE_ALIGNMENT</key>
+	<string>Alignment</string>
+	<key>ALIGNMENT_FOOTER</key>
+	<string>Alignment is still an experimental feature, so bugs are expected. The positions of labels with alignment enabled are different from normal labels with no alignment.
+
+If you choose Right alignment, the X position will be the space between the right side of the screen and the label.</string>
+
+  <key>TIME_LABEL_ALIGNMENT</key>
+  <string>Time Label</string>
+	<key>DATE_LABEL_ALIGNMENT</key>
+	<string>Date Label</string>
+	<key>LEFT</key>
+	<string>Left</string>
+	<key>CENTER</key>
+	<string>Center</string>
+	<key>RIGHT</key>
+	<string>Right</string>
+
+	<key>BOLD_TIME</key>
+	<string>Bold Time</string>
+
+	<key>POSITION_WITH_MEDIA</key>
+	<string>Pozycja (with Media)</string>
+	<key>SHOW_DATE_TIME_WITH_MEDIA</key>
+	<string>Show Date|Time With Media</string>
+
+	<key>CUSTOM_COLOR_FOOTER</key>
+	<string>Primary Color refers to the default Date|Time colors on lock screen, whereas the Secondary Color refers to the Date|Time colors when there are notifications or playing media.</string>
+</dict>
+</plist>

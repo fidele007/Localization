@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>DEFAULT</key>
+	<string>默认</string>
+
+	<key>DONE</key>
+	<string>完成</string>
+
+	<key>PHONE_UI_TITLE</key>
+	<string>手机图标（UI）</string>
+	<key>SLIDE_TO_ANSWER_TEXT</key>
+	<string>滑动来回答</string>
+	<key>REMIND_ME_LABEL</key>
+	<string>提醒我</string>
+	<key>MESSAGE_LABEL</key>
+	<string>信息</string>
+	<key>DECLINE_LABEL</key>
+	<string>婉拒</string>
+	<key>ACCEPT_LABEL</key>
+	<string>接受</string>
+</dict>
+</plist>

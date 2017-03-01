@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>DEFAULT</key>
+	<string>លំនាំដើម</string>
+
+	<key>DONE</key>
+	<string>រួចរាល់</string>
+
+	<key>PASSCODE_LOCK_VIEW_TITLE</key>
+	<string>ផ្ទាំង​លេខ​សម្ងាត់</string>
+	<key>PASSCODE_LOCK_VIEW_FOOTER</key>
+	<string>ក្រោយ​ពេល​កែ​ហើយ សូម​ចុចប៊ូតុង "រួចរាល់" នឹង​ឃើញ​លទ្ធផល​ភ្លាមៗ ដោយមិន​ចាំបាច់ Respring ឡើយ ។
+
+ចូរ​ប្រើ \n ដើម្បី​ចុះ​បន្ទាត់​សម្រាប់​ឃ្លា Enter Passcode និង Try Again ។</string>
+	<key>PASSCODE</key>
+	<string>Enter Passcode</string>
+	<key>PASSCODE_TEXT</key>
+	<string>Touch ID or Enter Passcode</string>
+	<key>TRY_AGAIN</key>
+	<string>Try Again</string>
+	<key>EMERGENCY</key>
+	<string>Emergency</string>
+	<key>CANCEL</key>
+	<string>Cancel</string>
+	<key>DELETE</key>
+	<string>Delete</string>
+</dict>
+</plist>

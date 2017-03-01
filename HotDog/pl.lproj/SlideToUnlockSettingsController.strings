@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>DEFAULT</key>
+	<string>Domyślny</string>
+
+	<key>SLIDE_TO_UNLOCK_TITLE</key>
+	<string>POLE "ODBLOKUJ"</string>
+	<key>SLIDE_TO_UNLOCK_FOOTER</key>
+	<string>String 1 is the default "slide to unlock" text on lock screen, whereas String 2 is the string "try again" which appears when Touch ID authentication fails.</string>
+	<key>SLIDE_TO_UNLOCK_TEXT</key>
+	<string>Tekst Pola "Odblokuj"</string>
+	<key>CUSTOM_COLOR</key>
+	<string>Własny Kolor</string>
+	<key>PICK_COLOR</key>
+	<string>Wybierz Kolor</string>
+	<key>DONE</key>
+	<string>Zatwierdź</string>
+	<key>POSITION</key>
+	<string>Pozycja</string>
+	<key>POSITION_FOOTER</key>
+	<string>Stanowisko akceptuje numery zarówno pozytywne jak i negatywne, na przykład 50 lub -50. Usuń wpis, aby przywrócić wartość domyślną.</string>
+
+	<key>DEFAULT_STRING</key>
+	<string>String 1</string>
+	<key>SECONDARY_STRING</key>
+	<string>String 2</string>
+	<key>TRY_AGAIN</key>
+	<string>try again</string>
+	<key>HIDE_CHEVRON</key>
+	<string>Hide Chevron</string>
+  <key>HIDE_PHRASE</key>
+  <string>Hide Phrase</string>
+	<key>SHOW_IMMEDIATELY</key>
+	<string>Show Immediately</string>
+  <key>FONT_SIZE</key>
+	<string>Rozmiar Czcionki</string>
+</dict>
+</plist>

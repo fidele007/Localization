@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+
+	<key>DEFAULT</key>
+	<string>Domyślny</string>
+
+	<key>DONE</key>
+	<string>Zatwierdź</string>
+
+	<key>PASSCODE_LOCK_VIEW_TITLE</key>
+	<string>Widok Hasła</string>
+	<key>PASSCODE_LOCK_VIEW_FOOTER</key>
+	<string>Kliknij przycisk "Zatwierdź", aby zaakceptować zmiany. Nie potrzebny jest restart telefonu. Pozostawienie pola pustego spowoduje przywrócenie ustawień domyślnych.
+
+Use "\n" (without quotes) to insert line breaks for "Enter Passcode" and "Try Again".</string>
+	<key>PASSCODE</key>
+	<string>Podaj kod</string>
+	<key>PASSCODE_TEXT</key>
+	<string>Użyj Touch ID lub podaj kod</string>
+	<key>TRY_AGAIN</key>
+	<string>Ponów</string>
+	<key>EMERGENCY</key>
+	<string>Alarmowe</string>
+	<key>CANCEL</key>
+	<string>Anuluj</string>
+	<key>DELETE</key>
+	<string>Usuń</string>
+</dict>
+</plist>

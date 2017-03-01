@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>DEFAULT</key>
+	<string>默认</string>
+
+	<key>LOCKSCREEN_DATETIME_TITLE</key>
+	<string>锁定屏幕 时间|日期</string>
+	<key>LOCKSCREEN_DATETIME_FOOTER</key>
+	<string>日期|时间 格式:
+平日: eee:周一, eeee:星期一
+代表每月的日期: d:4, dd:04
+月: M:4, MM:04, MMM:4月, MMMM:四月
+年: y:2015, yy:15
+代表十二小时制: h:9, hh:09
+代表二十四小时制: H:1, HH:01
+代表分钟: m:4, mm:04
+代表秒钟: s:5, ss:05 (只为iOS8+)
+AM/PM: a
+可输入自定义内容: 'Text'
+新队: \n (只为日期)
+
+例:
+eeee|dd|MMMM|yyyy ==> 星期一|13|四月|2015
+
+Note:
+For now, for the time format to work correctly, you should disable 24-Hour Time in Settings &gt; General &gt; Date &amp; Time.
+</string>
+	<key>TIME_FORMAT</key>
+	<string>时间格式</string>
+	<key>TIME_FONT_SIZE</key>
+	<string>时间显示区域</string>
+	<key>DATE_FORMAT</key>
+	<string>日期格式</string>
+	<key>DATE_FONT_SIZE</key>
+	<string>日期字体大小</string>
+	<key>CUSTOM_COLOR</key>
+	<string>自定义 时间|日期 的颜色</string>
+	<key>PICK_COLOR_DEFAULT</key>
+	<string>Primary Color</string>
+	<key>PICK_COLOR_WITH_NOTIFICATION</key>
+	<string>Secondary Color</string>
+
+	<key>DONE</key>
+	<string>完成</string>
+
+	<key>POSITION_DEFAULT</key>
+	<string>位置 (默认)</string>
+	<key>POSITION_FOOTER</key>
+	<string>位置接受正反两方面的数字，例如50或-50。删除条目以恢复默认值。</string>
+
+	<key>FONT_SIZE</key>
+	<string>字体大小</string>
+
+	<key>X_(TIME):</key>
+	<string>X (时间):</string>
+	<key>Y_(TIME):</key>
+	<string>Y (时间):</string>
+
+	<key>X_(DATE):</key>
+	<string>X (日期):</string>
+	<key>Y_(DATE):</key>
+	<string>Y (日期):</string>
+
+	<key>ALWAYS_SHOW_DATE_FOOTER_TEXT</key>
+	<string>While charging, turning on the lock screen view will first show the charging label and the Date label is shown only after the charging label disappears. This option will enable the Date label to be shown immediately. This is useful if you change the Date label's position.</string>
+	<key>ALWAYS_SHOW_DATE</key>
+	<string>Show Date immediately</string>
+
+	<key>ENABLE_ALIGNMENT</key>
+	<string>Alignment</string>
+	<key>ALIGNMENT_FOOTER</key>
+	<string>Alignment is still an experimental feature, so bugs are expected. The positions of labels with alignment enabled are different from normal labels with no alignment.
+
+If you choose Right alignment, the X position will be the space between the right side of the screen and the label.</string>
+
+  <key>TIME_LABEL_ALIGNMENT</key>
+  <string>Time Label</string>
+	<key>DATE_LABEL_ALIGNMENT</key>
+	<string>Date Label</string>
+	<key>LEFT</key>
+	<string>Left</string>
+	<key>CENTER</key>
+	<string>Center</string>
+	<key>RIGHT</key>
+	<string>Right</string>
+
+	<key>BOLD_TIME</key>
+	<string>Bold Time</string>
+
+	<key>POSITION_WITH_MEDIA</key>
+	<string>位置 (with Media)</string>
+	<key>SHOW_DATE_TIME_WITH_MEDIA</key>
+	<string>Show Date|Time With Media</string>
+
+	<key>CUSTOM_COLOR_FOOTER</key>
+	<string>Primary Color refers to the default Date|Time colors on lock screen, whereas the Secondary Color refers to the Date|Time colors when there are notifications or playing media.</string>
+</dict>
+</plist>

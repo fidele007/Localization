@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>OTHERS_TITLE</key>
+	<string>ផ្សេងៗ</string>
+
+	<key>GRABBERS</key>
+	<string>ក្រចាប់</string>
+
+	<key>HIDE_NC_GRABBER</key>
+	<string>លាក់​ក្រចាប់​ផ្ទាំង​ជូន​ដំណឹង</string>
+
+	<key>HIDE_CC_GRABBER</key>
+	<string>លាក់​ក្រចាប់​ផ្ទាំង​បញ្ជា</string>
+
+	<key>HIDE_CAMERA_GRABBER</key>
+	<string>លាក់​ក្រចាប់​កាម៉េរា</string>
+	<key>DISABLE_CAMERA</key>
+	<string>បិទ​កាម៉េរា</string>
+	<key>DISABLE_LOCK_SCREEN_BLUR_RADIUS</key>
+	<string>លុប​ពណ៌​ព្រាលៗលើ​អេក្រង់​ជាប់​សោ</string>
+
+	<key>DEFAULT</key>
+	<string>លំនាំដើម</string>
+
+	<key>DONE</key>
+	<string>រួចរាល់</string>
+
+	<key>CHARGING_VIEW_FOOTER</key>
+	<string>X និង Y អាច​មាន​​តម្លៃ​វិជ្ជមាន រឺ​អវិជ្ជមាន តួយ៉ាង ៥០ រឺ -៥០ ។ លុប​តម្លៃ​បញ្ចូលដើម្បី​ស្ដារ​តម្លៃ​ដើម ។</string>
+
+	<key>TIMER_VIEW_FOOTER</key>
+	<string>X និង Y អាច​មាន​​តម្លៃ​វិជ្ជមាន រឺ​អវិជ្ជមាន តួយ៉ាង ៥០ រឺ -៥០ ។ លុប​តម្លៃ​បញ្ចូលដើម្បី​ស្ដារ​តម្លៃ​ដើម ។</string>
+
+	<key>TIMER_VIEW</key>
+	<string>កម្មវិធី​កំណត់​ពេលវេលា</string>
+
+	<key>CHARGING_VIEW</key>
+	<string>រូប​បញ្ចូល​ថ្ម</string>
+	<key>HIDE_CHARGING_VIEW</key>
+	<string>លាក់រូប</string>
+	<key>ALWAYS_SHOW_CHARGING_VIEW</key>
+	<string>បង្ហាញ​ជានិច្ច</string>
+
+	<key>LOCKSCREEN_IDLE_DURATION</key>
+	<string>រយៈ​ពេល​បិទ​ពន្លឺអេក្រង់​ជាប់​សោ</string>
+	<key>LOCKSCREEN_IDLE_DURATION_FOOTER</key>
+	<string>អ្នក​អាច​ប្ដូរ​រយៈពេល (ជា​វិនាទី) ​មុន​ពេល​ដែល​អេក្រង់​ជាប់​សោ​បិទពន្លឺ ។ ដាក់ -១ សម្រាប់​ពេល​វេលា​គ្មាន​កំណត់ ។</string>
+	<key>DURATION_NORMAL</key>
+	<string>រយៈពេល (ធម្មតា)៖</string>
+	<key>DURATION_DOCKED</key>
+	<string>រយៈពេល (ដោតបញ្ចូលថ្ម)៖</string>
+</dict>
+</plist>

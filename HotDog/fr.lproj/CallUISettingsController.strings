@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>DEFAULT</key>
+	<string>Défaut</string>
+
+	<key>DONE</key>
+	<string>Sauvegarder</string>
+
+	<key>PHONE_UI_TITLE</key>
+	<string>Écran d'appel</string>
+	<key>SLIDE_TO_ANSWER_TEXT</key>
+	<string>Glisser pour répondre</string>
+	<key>REMIND_ME_LABEL</key>
+	<string>Rappel</string>
+	<key>MESSAGE_LABEL</key>
+	<string>Message</string>
+	<key>DECLINE_LABEL</key>
+	<string>Refuser</string>
+	<key>ACCEPT_LABEL</key>
+	<string>Répondre</string>
+</dict>
+</plist>

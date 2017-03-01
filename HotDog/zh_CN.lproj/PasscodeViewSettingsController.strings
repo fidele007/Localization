@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>DEFAULT</key>
+	<string>默认</string>
+
+	<key>DONE</key>
+	<string>完成</string>
+
+	<key>PASSCODE_LOCK_VIEW_TITLE</key>
+	<string>锁屏密码界面</string>
+	<key>PASSCODE_LOCK_VIEW_FOOTER</key>
+	<string>单击完成来启用，这项操作并不需要重启主屏幕。如果您不在文本框内输入任何内容，则会显示默认内容。
+
+Use "\n" (without quotes) to insert line breaks for "Enter Passcode" and "Try Again".</string>
+	<key>PASSCODE</key>
+	<string>输入密码</string>
+	<key>PASSCODE_TEXT</key>
+	<string>指纹或者密码</string>
+	<key>TRY_AGAIN</key>
+	<string>再试一次</string>
+	<key>EMERGENCY</key>
+	<string>紧急情况</string>
+	<key>CANCEL</key>
+	<string>取消</string>
+	<key>DELETE</key>
+	<string>删除</string>
+</dict>
+</plist>

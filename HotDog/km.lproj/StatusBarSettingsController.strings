@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+
+	<key>DEFAULT</key>
+	<string>លំនាំដើម</string>
+
+	<key>STATUS_BAR_TITLE</key>
+	<string>របារ​ស្ថានភាព</string>
+	<key>CUSTOM_CARRIER_TEXT</key>
+	<string>ឈ្មោះសេវា</string>
+	<key>STATUS_CLOCK_FORMAT</key>
+	<string>ម៉ោង​លើ​របារ​ស្ថានភាព</string>
+	<key>STATUS_BAR_FOOTER</key>
+	<string>ទ្រង់​ទ្រាយ​ម៉ោង​លើ​របារ​ស្ថានភាព:
+ថ្ងៃក្នុងសប្ដាហ៍៖ eee:សៅរ៍
+ថ្ងៃទី៖ d:4, dd:04
+ខែ៖ M:4, MM:04, MMM:មេសា
+ឆ្នាំ៖ yy:15, y:2015
+ម៉ោង (មាន ១២ ម៉ោង)៖  h:9, hh:09
+ម៉ោង (មាន ២៤ ម៉ោង)៖ H:0, HH:00
+នាទី៖ m:4, mm:04
+វិនាទី៖ s:9, ss:09
+ព្រឹក រឺ ល្ងាច៖ a
+ពាក្យធម្មតា៖ 'Text'
+
+ឧទាហរណ៍:
+dd|eee|HH:mm ==> 13|ចន្ទ|13:05
+</string>
+	<key>RESPRING</key>
+	<string>Respring</string>
+
+	<key>SHOW_TIME_ON_LOCKSCREEN</key>
+	<string>បង្ហាញ​ម៉ោង​</string>
+
+	<key>LOCKSCREEN</key>
+	<string>អេក្រង់​ជាប់សោ</string>
+	<key>HOMESCREEN</key>
+	<string>គេហអេក្រង់</string>
+  <key>HOMESCREEN_STATUS_BAR_FOOTER</key>
+  <string>ប្រសិន​បើ​ការ​លាក់​របារ​ស្ថានភាព​មាន​បញ្ហា សូម​សាក​ល្បង​ធ្វើ​ការ Respring ។</string>
+	<key>HIDE_STATUS_BAR</key>
+	<string>លាក់​របារ​ស្ថានភាព</string>
+	<key>CUSTOM_COLOR</key>
+	<string>ពណ៌</string>
+	<key>FOREGROUND_COLOR</key>
+	<string>ពណ៌​ផ្ទៃ​ខាងមុខ</string>
+	<key>BACKGROUND_COLOR</key>
+	<string>ពណ៌​ផ្ទៃខាង​ក្រោយ</string>
+	<key>SAME_STATUS_BAR_SIZE</key>
+	<string>របារ​ស្ថានភាព​តូច</string>
+</dict>
+</plist>

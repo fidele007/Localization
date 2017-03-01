@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>DEFAULT</key>
+	<string>Défaut</string>
+
+	<key>DONE</key>
+	<string>Sauvegarder</string>
+
+	<key>POWERDOWN_TITLE</key>
+	<string>Écran d'éteindre</string>
+	<key>SLIDE_TO_TURN_OFF_TEXT</key>
+	<string>Éteindre</string>
+	<key>CANCEL</key>
+	<string>Annuler</string>
+</dict>
+</plist>

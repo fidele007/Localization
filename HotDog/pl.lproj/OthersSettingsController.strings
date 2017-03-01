@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>OTHERS_TITLE</key>
+	<string>Others</string>
+
+	<key>GRABBERS</key>
+	<string>Grabbers</string>
+
+	<key>HIDE_NC_GRABBER</key>
+	<string>Hide NC Grabber</string>
+
+	<key>HIDE_CC_GRABBER</key>
+	<string>Hide CC Grabber</string>
+
+	<key>HIDE_CAMERA_GRABBER</key>
+	<string>Hide Camera Grabber</string>
+	<key>DISABLE_CAMERA</key>
+	<string>Disable Camera</string>
+	<key>DISABLE_LOCK_SCREEN_BLUR_RADIUS</key>
+	<string>Disable Lock Screen Blur</string>
+
+	<key>DEFAULT</key>
+	<string>Domyślny</string>
+
+	<key>DONE</key>
+	<string>Zatwierdź</string>
+
+	<key>CHARGING_VIEW_FOOTER</key>
+	<string>Stanowisko akceptuje numery zarówno pozytywne jak i negatywne, na przykład 50 lub -50. Usuń wpis, aby przywrócić wartość domyślną.</string>
+
+	<key>TIMER_VIEW_FOOTER</key>
+	<string>Stanowisko akceptuje numery zarówno pozytywne jak i negatywne, na przykład 50 lub -50. Usuń wpis, aby przywrócić wartość domyślną.</string>
+
+	<key>TIMER_VIEW</key>
+	<string>Timer view</string>
+
+	<key>CHARGING_VIEW</key>
+	<string>Charging View</string>
+	<key>HIDE_CHARGING_VIEW</key>
+	<string>Hide Charging View</string>
+	<key>ALWAYS_SHOW_CHARGING_VIEW</key>
+	<string>Always Show</string>
+
+	<key>LOCKSCREEN_IDLE_DURATION</key>
+	<string>Lock Screen Idle Duration</string>
+	<key>LOCKSCREEN_IDLE_DURATION_FOOTER</key>
+	<string>This option allows you to change the duration (in seconds) before lock screen is turned off. Put -1 for infinite duration.</string>
+	<key>DURATION_NORMAL</key>
+	<string>Duration (Normal):</string>
+	<key>DURATION_DOCKED</key>
+	<string>Duration (Docked):</string>
+</dict>
+</plist>

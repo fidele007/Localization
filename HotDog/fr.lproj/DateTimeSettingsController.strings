@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+
+	<key>DEFAULT</key>
+	<string>Défaut</string>
+
+	<key>DONE</key>
+	<string>Sauvegarder</string>
+
+	<key>LOCKSCREEN_DATETIME_TITLE</key>
+	<string>Date|Heure sur l'écr. verrouillé</string>
+	<key>LOCKSCREEN_DATETIME_FOOTER</key>
+	<string>Format de Date et Heure:
+Jour de la semaine: eee:ven., eeee:vendredi
+Jour du mois: d:4, dd:04
+Mois: M:4, MM:04, MMM:Apr, MMMM:April, MMMMM:A
+Année: y:2015, yy:15
+12-heure: h:9, hh:09
+24-heure: H:1, HH:01
+Minute: m:4, mm:04
+Seconde: s:5, ss:05 (ne fonctionnant que sur iOS 8+)
+AM/PM: a
+Texte personnalisé: 'Texte' (avec les guillemets)
+Nouvelle ligne: \n (ne fonctionnant que pour la Date)
+
+Exemple:
+eeee|dd|MMMM|yyyy ==> lundi|13|avril|2015
+
+Note:
+Pour que le format d'heure fonctionne bien, l'option Affichage 24h devrait être désactivée dans Réglages &gt; Général &gt; Date &amp; heure.
+</string>
+	<key>TIME_FORMAT</key>
+	<string>Format d'heure</string>
+	<key>TIME_FONT_SIZE</key>
+	<string>Taille de police d'heure</string>
+	<key>DATE_FORMAT</key>
+	<string>Format de date</string>
+	<key>DATE_FONT_SIZE</key>
+	<string>Taille de police de date</string>
+	<key>CUSTOM_COLOR</key>
+	<string>Couleur personnalisée</string>
+	<key>PICK_COLOR_DEFAULT</key>
+	<string>Couleur principale</string>
+	<key>PICK_COLOR_WITH_NOTIFICATION</key>
+	<string>Couleur secondaire</string>
+
+	<key>POSITION_DEFAULT</key>
+	<string>Position (Défaut)</string>
+	<key>POSITION_FOOTER</key>
+	<string>X et Y peuvent être un nombre positif ou négatif comme 50 ou -50. Enlevez la valeur entrée pour restaurer la valeur par défaut.</string>
+
+	<key>FONT_SIZE</key>
+	<string>Taille de police</string>
+
+	<key>X_(TIME):</key>
+	<string>X (Heure):</string>
+	<key>Y_(TIME):</key>
+	<string>Y (Heure):</string>
+
+	<key>X_(DATE):</key>
+	<string>X (Date):</string>
+	<key>Y_(DATE):</key>
+	<string>Y (Date):</string>
+
+	<key>ALWAYS_SHOW_DATE_FOOTER_TEXT</key>
+	<string>Pendant le rechargement de batterie, l'écran vérrouillé affiche d'abord le texte de chargement et la date ne s'affiche qu'après le texte disparaît. Cette option permet d'afficher immédiatement la date. C'est utile quand vous changez la position de la date.</string>
+	<key>ALWAYS_SHOW_DATE</key>
+	<string>Afficher la date immédiatement</string>
+
+	<key>ENABLE_ALIGNMENT</key>
+	<string>Alignement</string>
+	<key>ALIGNMENT_FOOTER</key>
+	<string>Alignement est encore une fonctionnalité expérimentale, donc des bugs sont attendus. C'est aussi à savoir que les positions des étiquettes alignées sont différentes de celles non alignées.
+
+Si l'alignement droit est choisi, la valeur de X sera l'espace entre le côté droit de l'écran et l'étiquette.</string>
+
+  <key>TIME_LABEL_ALIGNMENT</key>
+	<string>Heure</string>
+	<key>DATE_LABEL_ALIGNMENT</key>
+	<string>Date</string>
+	<key>LEFT</key>
+	<string>Gauche</string>
+	<key>CENTER</key>
+	<string>Centre</string>
+	<key>RIGHT</key>
+	<string>Droite</string>
+
+	<key>BOLD_TIME</key>
+	<string>L'heure en gras</string>
+
+	<key>POSITION_WITH_MEDIA</key>
+	<string>Position (avec Média)</string>
+	<key>SHOW_DATE_TIME_WITH_MEDIA</key>
+	<string>Afficher Date|Heure avec média</string>
+
+	<key>CUSTOM_COLOR_FOOTER</key>
+	<string>La couleur principale s'agit de la couleur par défaut de Date|Heure sur l'écran verouillé, alors que la couleur secondaire est celle de Date|Heure lorsqu'il y a des notifications ou média.</string>
+
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>DEFAULT</key>
+	<string>默认</string>
+
+	<key>DONE</key>
+	<string>完成</string>
+
+	<key>POWERDOWN_TITLE</key>
+	<string>关机</string>
+	<key>SLIDE_TO_TURN_OFF_TEXT</key>
+	<string>自定义“滑动关机”文本</string>
+	<key>CANCEL</key>
+	<string>取消</string>
+</dict>
+</plist>

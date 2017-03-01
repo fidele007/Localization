@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>MEDIA_FOOTER</key>
+	<string>X and Y can be positive or negative numbers, for example 50 or -50. Remove the entry to restore the default value. For the volume slider position, the default values are shown in the entry fields (as placeholders).</string>
+
+	<key>MEDIA_CONTROLS_TITLE</key>
+	<string>Media</string>
+
+	<key>DEFAULT</key>
+	<string>Default</string>
+
+	<key>DONE</key>
+	<string>Done</string>
+
+	<key>MEDIA_CONTROLS_POSITION</key>
+	<string>Media Controls Position</string>
+	<key>ALBUM_ART_POSITION</key>
+	<string>Album Art Position</string>
+
+	<key>VOLUME_SLIDER_POSITION</key>
+	<string>Volume Slider Position</string>
+	<key>VOLUME_SLIDER_Y</key>
+	<string>Spacing (Lock Screen)</string>
+	<key>CC_VOLUME_SLIDER_Y</key>
+	<string>Spacing (Control Center)</string>
+
+	<key>X_DEFAULT</key>
+	<string>X (Default)</string>
+	<key>Y_DEFAULT</key>
+	<string>Y (Default)</string>
+	<key>X_NOTIFICATIONS</key>
+	<string>X (Notifications)</string>
+	<key>Y_NOTIFICATIONS</key>
+	<string>Y (Notifications)</string>
+
+	<key>X_MEDIA</key>
+	<string>X (with Media)</string>
+	<key>Y_MEDIA</key>
+	<string>Y (with Media)</string>
+	<key>X_CLOCK</key>
+	<string>X (with Clock)</string>
+	<key>Y_CLOCK</key>
+	<string>Y (with Clock)</string>
+
+	<key>ALBUM_ART_SIZE</key>
+	<string>Album Art Size</string>
+</dict>
+</plist>

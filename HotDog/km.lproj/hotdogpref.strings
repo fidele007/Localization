@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>STATUS_BAR_TITLE</key>
+	<string>របារ​ស្ថានភាព</string>
+
+	<key>LOCKSCREEN_DATETIME_TITLE</key>
+	<string>ម៉ោង និង​កាលបរិច្ឆេទ</string>
+
+	<key>SLIDE_TO_UNLOCK_TITLE</key>
+	<string>ឃ្លា «​អូស​ដើម្បី​ដោះ​សោ»</string>
+
+	<key>PASSCODE_LOCK_VIEW_TITLE</key>
+	<string>ផ្ទាំង​លេខ​សម្ងាត់</string>
+
+	<key>PHONE_UI_TITLE</key>
+	<string>ផ្ទាំង​ហៅ​ចូល</string>
+
+	<key>NOTIFICATIONS_TITLE</key>
+	<string>ផ្ទាំង​ជូនដំណឹង</string>
+
+	<key>POWERDOWN_TITLE</key>
+	<string>ផ្ទាំងបិទ​ទូរសព្ទ</string>
+
+	<key>MEDIA_CONTROLS_TITLE</key>
+	<string>​មេឌៀ</string>
+
+	<key>OTHERS_TITLE</key>
+	<string>ផ្សេងៗ</string>
+
+	<key>ABOUT</key>
+	<string>អំពី​ខ្ញុំ</string>
+	<key>DONATE</key>
+	<string>ឧបត្ថម្ភថវិកា​តាម PayPal</string>
+
+	<key>CREDITS</key>
+	<key>សូមថ្លែងអំណរគុណដល់ អ្នក​បក​ប្រែ</key>
+</dict>
+</plist>

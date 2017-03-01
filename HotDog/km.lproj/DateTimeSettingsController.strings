@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+
+	<key>DEFAULT</key>
+	<string>លំនាំដើម</string>
+
+	<key>LOCKSCREEN_DATETIME_TITLE</key>
+	<string>ម៉ោង និង​កាលបរិច្ឆេទ</string>
+	<key>LOCKSCREEN_DATETIME_FOOTER</key>
+	<string>ទ្រង់ទ្រាយ​ម៉ោង និង​កាលបរិច្ឆេទ:
+ថ្ងៃក្នុងសប្ដាហ៍៖ eee:សៅរ៍
+ថ្ងៃទី៖ d:4, dd:04
+ខែ៖ M:4, MM:04, MMM:មេសា
+ឆ្នាំ៖ yy:15, y:2015
+ម៉ោង (មាន ១២ ម៉ោង)៖  h:9, hh:09
+ម៉ោង (មាន ២៤ ម៉ោង)៖ H:0, HH:00
+នាទី៖ m:4, mm:04
+វិនាទី៖ s:5, ss:05 (សម្រាប់​តែ iOS 8+)
+ព្រឹក/ល្ងាច៖ a
+ពាក្យធម្មតា៖ 'Text' (ជា​មួយ​នឹង​ ' ')
+ចុះ​បន្ទាត់៖ \n (សម្រាប់​តែ​កាលបរិច្ឆេទ​ប៉ុណ្ណោះ)
+
+ឧទាហរណ៍:
+'ថ្ងៃ'eee|dd|MMMM|yyyy ==> ថ្ងៃចន្ទ|13|មេសា|2015
+
+ចំណាំ:
+ដើម្បីឲ្យទ្រង់ទ្រាយម៉ោងដើរបានល្អ ចូរបិទ 24-Hour Time នៅក្នុង Settings &gt; General &gt; Date &amp; Time ។
+</string>
+	<key>TIME_FORMAT</key>
+	<string>ទ្រង់ទ្រាយ​ម៉ោង</string>
+	<key>TIME_FONT_SIZE</key>
+	<string>ទំហំ​ម៉ោង</string>
+	<key>DATE_FORMAT</key>
+	<string>ទ្រង់ទ្រាយ​កាល​បរិច្ឆេទ</string>
+	<key>DATE_FONT_SIZE</key>
+	<string>ទំហំ​កាលបរិច្ឆេទ</string>
+	<key>CUSTOM_COLOR</key>
+	<string>ពណ៌​ម៉ោង និង​កាលបរិឆ្ឆេទ</string>
+	<key>PICK_COLOR_DEFAULT</key>
+	<string>ពណ៌​ទីមួយ</string>
+	<key>PICK_COLOR_WITH_NOTIFICATION</key>
+	<string>ពណ៌​ទី​ពីរ</string>
+
+	<key>DONE</key>
+	<string>រួចរាល់</string>
+
+	<key>POSITION_DEFAULT</key>
+	<string>ទីតាំង (ធម្មតា)</string>
+	<key>POSITION_FOOTER</key>
+	<string>X និង Y អាច​មាន​​តម្លៃ​វិជ្ជមាន រឺ​អវិជ្ជមាន តួយ៉ាង ៥០ រឺ -៥០ ។ លុប​តម្លៃ​បញ្ចូលដើម្បី​ស្ដារ​តម្លៃ​ដើម ។</string>
+
+	<key>FONT_SIZE</key>
+	<string>ទំហំ​អក្សរ</string>
+
+	<key>X_(TIME):</key>
+	<string>X (ម៉ោង):</string>
+	<key>Y_(TIME):</key>
+	<string>Y (ម៉ោង):</string>
+
+	<key>X_(DATE):</key>
+	<string>X (កាល​បរិច្ឆេទ):</string>
+	<key>Y_(DATE):</key>
+	<string>Y (កាល​បរិច្ឆេទ):</string>
+
+	<key>ALWAYS_SHOW_DATE_FOOTER_TEXT</key>
+	<string>ពេល​កំពុង​បញ្ចូល​ថ្ម អេក្រង់​ជាប់​សោ​នឹង​បង្ហាញ​ឃ្លា​ភាគរយ​ថ្ម​ រួច​ទើប​បង្ហាញ​កាលបរិច្ឆេទ ។ ជម្រើសនេះ​នឹង​បង្ហាញ​កាល​បរិច្ឆេទ​ភ្លាមៗ ។ ​មាន​ប្រយោជន៍​ប្រសិន​បើ​អ្នក​ផ្លាស់​ប្ដូរ​ទីតាំង​​កាលបរិច្ឆេទ ។</string>
+	<key>ALWAYS_SHOW_DATE</key>
+	<string>បង្ហាញ​កាល​បរិច្ឆេទ​ភ្លាមៗ</string>
+
+	<key>ENABLE_ALIGNMENT</key>
+	<string>ប្រើ​ការ​តម្រឹម</string>
+	<key>ALIGNMENT_FOOTER</key>
+	<string>ការ​តម្រឹម​ស្ថិត​ក្នុង​ដំណាក់​កាល​សាកល្បង​នៅ​ឡើយ ដូច្នេះ​អាច​មាន​កំហុស​ឆ្គង​​ដែល​មិន​បាន​រំពឹង​ទុក។ ម្យ៉ាង​ទៀត ទីតាំង​ឃ្លា​ដែល​មាន​ការ​តម្រឹម​ខុស​ពី​ឃ្លា​ដែល​គ្មាន​ការ​តម្រឹម ។
+
+បើ​សិន​ជា​អ្នក​ជ្រើស​រើស​តម្រឹម​ខាង​ស្ដាំ តម្លៃ X ជា​គម្លាត​រវាង​គែម​អេក្រង់​ខាង​ស្ដាំ និងឃ្លា​កាលបរិច្ឆេទឬ​ម៉ោង ។</string>
+
+  <key>TIME_LABEL_ALIGNMENT</key>
+  <string>តម្រឹម​ម៉ោង</string>
+	<key>DATE_LABEL_ALIGNMENT</key>
+	<string>តម្រឹម​កាលបរិច្ឆេទ</string>
+	<key>LEFT</key>
+	<string>ឆ្វេង</string>
+	<key>CENTER</key>
+	<string>កណ្ដាល</string>
+	<key>RIGHT</key>
+	<string>ស្ដាំ</string>
+
+	<key>BOLD_TIME</key>
+	<string>ម៉ោង​ដិត</string>
+
+	<key>POSITION_WITH_MEDIA</key>
+	<string>ទីតាំង (ជា​មួយ​មេឌៀ)</string>
+	<key>SHOW_DATE_TIME_WITH_MEDIA</key>
+	<string>បង្ហាញ​ម៉ោង​និង​កាលបរិច្ឆេទ​ជា​មួយ​មេឌៀ</string>
+
+	<key>CUSTOM_COLOR_FOOTER</key>
+	<string>ពណ៌​ទី​មួយ​សំដៅ​ទៅ​លើ​ពណ៌​ម៉ោង​និង​កាលបរិច្ឆេទ​ដំបូង​លើ​អេក្រង់​ជាប់​សោ ចំណែក​ពណ៌​ទី​ពីរ​សំដៅ​ទៅ​លើ​ពណ៌​ម៉ោង​និង​កាល​បរិច្ឆេទ​ ពេល​ដែល​មាន​ការ​ជូន​ដំណឹង រឺ​មេឌៀ​ ។</string>
+</dict>
+</plist>

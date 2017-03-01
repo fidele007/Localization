@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>DEFAULT</key>
+	<string>Default</string>
+
+	<key>DONE</key>
+	<string>Done</string>
+
+	<key>PASSCODE_LOCK_VIEW_TITLE</key>
+	<string>Passcode View</string>
+	<key>PASSCODE_LOCK_VIEW_FOOTER</key>
+	<string>Click Done for changes to take effect. There's no need to respring. Leaving the text box blank will revert the text to its default settings.
+
+Use "\n" (without quotes) to insert line breaks for "Enter Passcode" and "Try Again".</string>
+	<key>PASSCODE</key>
+	<string>Enter Passcode</string>
+	<key>TRY_AGAIN</key>
+	<string>Try Again</string>
+	<key>PASSCODE_TEXT</key>
+	<string>Touch ID or Enter Passcode</string>
+	<key>EMERGENCY</key>
+	<string>Emergency</string>
+	<key>CANCEL</key>
+	<string>Cancel</string>
+	<key>DELETE</key>
+	<string>Delete</string>
+</dict>
+</plist>

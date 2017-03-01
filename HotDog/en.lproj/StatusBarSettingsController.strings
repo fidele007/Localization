@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+
+	<key>DEFAULT</key>
+	<string>Default</string>
+
+	<key>STATUS_BAR_TITLE</key>
+	<string>Status Bar</string>
+	<key>CUSTOM_CARRIER_TEXT</key>
+	<string>Custom Carrier Text</string>
+	<key>STATUS_CLOCK_FORMAT</key>
+	<string>Status Clock Format</string>
+	<key>STATUS_BAR_FOOTER</key>
+	<string>STATUS CLOCK FORMAT:
+Weekday: eee:Sat, eeee:Saturday
+Day of Month: d:4, dd:04
+Month: M:4, MM:04, MMM:Apr, MMMM:April, MMMMM:A
+Year: y:2015, yy:15
+12-hour: h:9, hh:09
+24-hour: H:1, HH:01
+Minute: m:4, mm:04
+Second: s:9, ss:09
+AM/PM: a
+Custom string: 'Text'
+
+Example:
+dd|eee|HH:mm ==> 13|Mon|13:05
+</string>
+	<key>RESPRING</key>
+	<string>Respring</string>
+
+	<key>LOCKSCREEN</key>
+	<string>Lock Screen</string>
+	<key>HOMESCREEN</key>
+	<string>Home Screen</string>
+  <key>HOMESCREEN_STATUS_BAR_FOOTER</key>
+  <string>If hiding status bar does not work, please try restarting the SpringBoard.</string>
+	<key>HIDE_STATUS_BAR</key>
+	<string>Hide Status Bar</string>
+	<key>CUSTOM_COLOR</key>
+	<string>Custom Color</string>
+	<key>FOREGROUND_COLOR</key>
+	<string>Foreground Color</string>
+	<key>BACKGROUND_COLOR</key>
+	<string>Background Color</string>
+	<key>SAME_STATUS_BAR_SIZE</key>
+	<string>Small Status Bar</string>
+
+	<key>SHOW_TIME_ON_LOCKSCREEN</key>
+	<string>Show Time</string>
+</dict>
+</plist>

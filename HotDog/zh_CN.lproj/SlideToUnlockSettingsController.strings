@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>DEFAULT</key>
+	<string>默认</string>
+
+	<key>SLIDE_TO_UNLOCK_TITLE</key>
+	<string>自定义“滑动滑块以解锁”文本</string>
+	<key>SLIDE_TO_UNLOCK_FOOTER</key>
+	<string>String 1 is the default "slide to unlock" text on lock screen, whereas String 2 is the string "try again" which appears when Touch ID authentication fails.</string>
+	<key>SLIDE_TO_UNLOCK_TEXT</key>
+	<string>请在这里输入</string>
+	<key>CUSTOM_COLOR</key>
+	<string>自定义颜色</string>
+	<key>PICK_COLOR</key>
+	<string>取色</string>
+	<key>DONE</key>
+	<string>完成</string>
+	<key>POSITION</key>
+	<string>位置</string>
+	<key>POSITION_FOOTER</key>
+	<string>位置接受正反两方面的数字，例如50或-50。删除条目以恢复默认值。</string>
+
+	<key>DEFAULT_STRING</key>
+	<string>String 1</string>
+	<key>SECONDARY_STRING</key>
+	<string>String 2</string>
+	<key>TRY_AGAIN</key>
+	<string>try again</string>
+	<key>HIDE_CHEVRON</key>
+	<string>Hide Chevron</string>
+  <key>HIDE_PHRASE</key>
+  <string>Hide Phrase</string>
+	<key>SHOW_IMMEDIATELY</key>
+	<string>Show Immediately</string>
+  <key>FONT_SIZE</key>
+	<string>字体大小</string>
+</dict>
+</plist>
