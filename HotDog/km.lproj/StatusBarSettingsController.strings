@@ -41,7 +41,7 @@ dd|eee|HH:mm ==> 13|ចន្ទ|13:05
   <key>HOMESCREEN_STATUS_BAR_FOOTER</key>
   <string>ប្រសិន​បើ​ការ​លាក់​របារ​ស្ថានភាព​មាន​បញ្ហា សូម​សាក​ល្បង​ធ្វើ​ការ Respring ។</string>
   <key>HIDE_LS_LOCK</key>
-  <string>លាក់​រូប​សោ</key>
+  <string>លាក់​រូប​សោ</string>
 	<key>HIDE_STATUS_BAR</key>
 	<string>លាក់​របារ​ស្ថានភាព</string>
 	<key>CUSTOM_COLOR</key>

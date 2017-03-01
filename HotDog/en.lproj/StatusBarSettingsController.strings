@@ -38,7 +38,7 @@ dd|eee|HH:mm ==> 13|Mon|13:05
   <key>HOMESCREEN_STATUS_BAR_FOOTER</key>
   <string>If hiding status bar does not work, try restarting the SpringBoard.</string>
   <key>HIDE_LS_LOCK</key>
-  <string>Hide Lock</key>
+  <string>Hide Lock</string>
 	<key>HIDE_STATUS_BAR</key>
 	<string>Hide Status Bar</string>
 	<key>CUSTOM_COLOR</key>
