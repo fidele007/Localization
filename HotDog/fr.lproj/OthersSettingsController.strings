@@ -19,7 +19,7 @@
 	<key>DISABLE_CAMERA</key>
 	<string>Désactiver l'Appareil photo</string>
 	<key>DISABLE_LOCK_SCREEN_BLUR_RADIUS</key>
-	<string>Désactiver le flou sur l'écr. verrouilé</string>
+	<string>Désactiver le flou sur l'écr. verrouillé</string>
 
 	<key>DEFAULT</key>
 	<string>Défaut</string>
@@ -52,5 +52,10 @@
 	<string>Duration (Normale):</string>
 	<key>DURATION_DOCKED</key>
 	<string>Duration (Rechargement):</string>
+
+  <key>LOCK_SCREEN</key>
+	<string>Écran verrouillé</string>
+  <key>HIDE_PAGE_DOTS</key>
+  <string>Cacher l'indicateur de pages</key>
 </dict>
 </plist>

@@ -51,5 +51,10 @@
 	<string>រយៈពេល (ធម្មតា)៖</string>
 	<key>DURATION_DOCKED</key>
 	<string>រយៈពេល (ដោតបញ្ចូលថ្ម)៖</string>
+
+  <key>LOCK_SCREEN</key>
+	<string>អេក្រង់​ជាប់​សោ</string>
+  <key>HIDE_PAGE_DOTS</key>
+  <string>លាក់​សញ្ញា​សម្គាល់​ទំព័រ</key>
 </dict>
 </plist>

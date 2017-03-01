@@ -40,6 +40,8 @@ dd|eee|HH:mm ==> 13|lun.|13:05
 	<string>Écran d'accueil</string>
   <key>HOMESCREEN_STATUS_BAR_FOOTER</key>
   <string>Si la barre de status n'est pas cachée comme il faut, essayez de redémarrer le SpringBoard.</string>
+  <key>HIDE_LS_LOCK</key>
+  <string>Cacher le verrou</key>
 	<key>HIDE_STATUS_BAR</key>
 	<string>Cacher la barre de statut</string>
 	<key>CUSTOM_COLOR</key>

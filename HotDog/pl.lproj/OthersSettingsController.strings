@@ -51,5 +51,10 @@
 	<string>Duration (Normal):</string>
 	<key>DURATION_DOCKED</key>
 	<string>Duration (Docked):</string>
+
+  <key>LOCK_SCREEN</key>
+	<string>Lock Screen</string>
+  <key>HIDE_PAGE_DOTS</key>
+  <string>Hide Page Dots</key>
 </dict>
 </plist>

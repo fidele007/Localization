@@ -36,7 +36,9 @@ dd|eee|HH:mm ==> 13|Mon|13:05
 	<key>HOMESCREEN</key>
 	<string>Home Screen</string>
   <key>HOMESCREEN_STATUS_BAR_FOOTER</key>
-  <string>If hiding status bar does not work, please try restarting the SpringBoard.</string>
+  <string>If hiding status bar does not work, try restarting the SpringBoard.</string>
+  <key>HIDE_LS_LOCK</key>
+  <string>Hide Lock</key>
 	<key>HIDE_STATUS_BAR</key>
 	<string>Hide Status Bar</string>
 	<key>CUSTOM_COLOR</key>
