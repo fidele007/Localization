@@ -1,2 +1,2 @@
 # Localization
-Localizations for my iOS projects. Contact me if you would like to contribute.
+Localizations for my iOS projects. Contact me if you would like to contribute: kforcefidele@yahoo.com.
