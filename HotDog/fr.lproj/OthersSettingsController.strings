@@ -53,9 +53,9 @@
 	<key>DURATION_DOCKED</key>
 	<string>Duration (Rechargement):</string>
 
-  <key>LOCK_SCREEN</key>
+	<key>LOCK_SCREEN</key>
 	<string>Écran verrouillé</string>
-  <key>HIDE_PAGE_DOTS</key>
-  <string>Cacher l'indicateur de pages</string>
+	<key>HIDE_PAGE_DOTS</key>
+	<string>Cacher l'indicateur de pages</string>
 </dict>
 </plist>
