@@ -1,40 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
-<plist version="1.0">
-<dict>
-	<key>STATUS_BAR_TITLE</key>
-	<string>Barre de statut</string>
-
-	<key>LOCKSCREEN_DATETIME_TITLE</key>
-	<string>Date|Heure sur l'écr. verrouillé</string>
-
-	<key>SLIDE_TO_UNLOCK_TITLE</key>
-	<string>« Déverrouiller »</string>
-
-	<key>PASSCODE_LOCK_VIEW_TITLE</key>
-	<string>Écran de code</string>
-
-	<key>PHONE_UI_TITLE</key>
-	<string>Écran d'appel</string>
-
-	<key>NOTIFICATIONS_TITLE</key>
-	<string>Notifications</string>
-
-	<key>POWERDOWN_TITLE</key>
-	<string>Écran d'éteindre</string>
-
-	<key>MEDIA_CONTROLS_TITLE</key>
-	<string>Média</string>
-
-	<key>OTHERS_TITLE</key>
-	<string>Autres</string>
-
-	<key>ABOUT</key>
-	<string>À propos de moi</string>
-	<key>DONATE</key>
-	<string>Donation via PayPal</string>
-
-	<key>CREDITS</key>
-	<key>Merci aux traducteurs</key>
-</dict>
-</plist>
+{
+	"STATUS_BAR_TITLE" = "Barre de statut";
+	"LOCKSCREEN_DATETIME_TITLE" = "Date et heure sur l'écr. verrouillé";
+	"SLIDE_TO_UNLOCK_TITLE" = "« Déverrouiller »";
+	"PASSCODE_LOCK_VIEW_TITLE" = "Écran de code";
+	"PHONE_UI_TITLE" = "Écran d'appel";
+	"NOTIFICATIONS_TITLE" = "Notifications";
+	"POWERDOWN_TITLE" = "Écran d'éteindre";
+	"MEDIA_CONTROLS_TITLE" = "Média";
+	"OTHERS_TITLE" = "Autres";
+	"ABOUT" = "À propos de moi";
+	"DONATE" = "Donation via PayPal";
+	"CREDITS" = "Merci aux traducteurs";
+}

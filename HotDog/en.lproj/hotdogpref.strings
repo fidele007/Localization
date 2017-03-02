@@ -1,40 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
-<plist version="1.0">
-<dict>
-	<key>STATUS_BAR_TITLE</key>
-	<string>Status Bar</string>
-
-	<key>LOCKSCREEN_DATETIME_TITLE</key>
-	<string>Lockscreen Date|Time</string>
-
-	<key>SLIDE_TO_UNLOCK_TITLE</key>
-	<string>Slide to Unlock</string>
-
-	<key>PASSCODE_LOCK_VIEW_TITLE</key>
-	<string>Passcode View</string>
-
-	<key>PHONE_UI_TITLE</key>
-	<string>Call UI</string>
-
-	<key>NOTIFICATIONS_TITLE</key>
-	<string>Notifications</string>
-
-	<key>POWERDOWN_TITLE</key>
-	<string>Power Down View</string>
-
-	<key>MEDIA_CONTROLS_TITLE</key>
-	<string>Media</string>
-
-	<key>OTHERS_TITLE</key>
-	<string>Others</string>
-
-	<key>ABOUT</key>
-	<string>About Me</string>
-	<key>DONATE</key>
-	<string>Donate via PayPal</string>
-
-	<key>CREDITS</key>
-	<key>Credits to translators</key>
-</dict>
-</plist>
+{
+	"STATUS_BAR_TITLE" = "Status Bar";
+	"LOCKSCREEN_DATETIME_TITLE" = "Lock Screen Date & Time";
+	"SLIDE_TO_UNLOCK_TITLE" = "Slide to Unlock";
+	"PASSCODE_LOCK_VIEW_TITLE" = "Passcode View";
+	"PHONE_UI_TITLE" = "Call UI";
+	"NOTIFICATIONS_TITLE" = "Notifications";
+	"POWERDOWN_TITLE" = "Power Down View";
+	"MEDIA_CONTROLS_TITLE" = "Media";
+	"OTHERS_TITLE" = "Others";
+	"ABOUT" = "About Me";
+	"DONATE" = "Donate via PayPal";
+	"CREDITS" = "Credits to translators";
+}

@@ -1,50 +1,20 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
-<plist version="1.0">
-<dict>
-	<key>MEDIA_FOOTER</key>
-	<string>X និង Y អាច​មាន​​តម្លៃ​វិជ្ជមាន រឺ​អវិជ្ជមាន តួយ៉ាង ៥០ រឺ -៥០ ។ លុប​តម្លៃ​បញ្ចូលដើម្បី​ស្ដារ​តម្លៃ​ដើម ។ សម្រាប់​ទីតាំង​បញ្ជា​សំឡេង តម្លៃ​ដើម​ត្រូវ​បាន​ដាក់​បង្ហាញ​នៅ​ក្នុង​ទី​បញ្ចូល​តម្លៃ ។</string>
-
-	<key>MEDIA_CONTROLS_TITLE</key>
-	<string>មេឌៀ</string>
-
-	<key>DEFAULT</key>
-	<string>លំនាំដើម</string>
-
-	<key>DONE</key>
-	<string>រួចរាល់</string>
-
-	<key>MEDIA_CONTROLS_POSITION</key>
-	<string>ទីតាំង​ផ្ទាំង​បញ្ជាមេឌៀ</string>
-	<key>ALBUM_ART_POSITION</key>
-	<string>ទីតាំង​រូប​អាល់ប៊ុម</string>
-
-	<key>VOLUME_SLIDER_POSITION</key>
-	<string>ទីតាំង​បញ្ជា​សំឡេង</string>
-	<key>VOLUME_SLIDER_Y</key>
-	<string>គម្លាត (អេក្រង់​ជាប់​សោ)</string>
-	<key>CC_VOLUME_SLIDER_Y</key>
-	<string>គម្លាត (មណ្ឌល​បញ្ជា)</string>
-
-	<key>X_DEFAULT</key>
-	<string>X (ធម្មតា)</string>
-	<key>Y_DEFAULT</key>
-	<string>Y (ធម្មតា)</string>
-	<key>X_NOTIFICATIONS</key>
-	<string>X (មាន​ការ​ជូន​ដំណឹង)</string>
-	<key>Y_NOTIFICATIONS</key>
-	<string>Y (មាន​ការ​ជូន​ដំណឹង)</string>
-
-	<key>X_MEDIA</key>
-	<string>X (ជា​មួយ​បញ្ជា​មេឌៀ)</string>
-	<key>Y_MEDIA</key>
-	<string>Y (ជា​មួយ​បញ្ជា​មេឌៀ)</string>
-	<key>X_CLOCK</key>
-	<string>X (ជា​មួយ​ម៉ោង)</string>
-	<key>Y_CLOCK</key>
-	<string>Y (ជា​មួយ​ម៉ោង)</string>
-
-	<key>ALBUM_ART_SIZE</key>
-	<string>ទំហំ​រូប​អាល់ប៊ុម</string>
-</dict>
-</plist>
+{
+	"MEDIA_FOOTER" = "X និង Y អាច​មាន​​តម្លៃ​វិជ្ជមាន រឺ​អវិជ្ជមាន តួយ៉ាង ៥០ រឺ -៥០ ។ លុប​តម្លៃ​បញ្ចូលដើម្បី​ស្ដារ​តម្លៃ​ដើម ។ សម្រាប់​ទីតាំង​បញ្ជា​សំឡេង តម្លៃ​ដើម​ត្រូវ​បាន​ដាក់​បង្ហាញ​នៅ​ក្នុង​ទី​បញ្ចូល​តម្លៃ ។";
+	"MEDIA_CONTROLS_TITLE" = "មេឌៀ";
+	"DEFAULT" = "លំនាំដើម";
+	"DONE" = "រួចរាល់";
+	"MEDIA_CONTROLS_POSITION" = "ទីតាំង​ផ្ទាំង​បញ្ជាមេឌៀ";
+	"ALBUM_ART_POSITION" = "ទីតាំង​រូប​អាល់ប៊ុម";
+	"VOLUME_SLIDER_POSITION" = "ទីតាំង​បញ្ជា​សំឡេង";
+	"VOLUME_SLIDER_Y" = "គម្លាត (អេក្រង់​ជាប់​សោ)";
+	"CC_VOLUME_SLIDER_Y" = "គម្លាត (មណ្ឌល​បញ្ជា)";
+	"X_DEFAULT" = "X (ធម្មតា)";
+	"Y_DEFAULT" = "Y (ធម្មតា)";
+	"X_NOTIFICATIONS" = "X (មាន​ការ​ជូន​ដំណឹង)";
+	"Y_NOTIFICATIONS" = "Y (មាន​ការ​ជូន​ដំណឹង)";
+	"X_MEDIA" = "X (ជា​មួយ​បញ្ជា​មេឌៀ)";
+	"Y_MEDIA" = "Y (ជា​មួយ​បញ្ជា​មេឌៀ)";
+	"X_CLOCK" = "X (ជា​មួយ​ម៉ោង)";
+	"Y_CLOCK" = "Y (ជា​មួយ​ម៉ោង)";
+	"ALBUM_ART_SIZE" = "ទំហំ​រូប​អាល់ប៊ុម";
+}

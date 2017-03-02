@@ -1,19 +1,20 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
-<plist version="1.0">
-<dict>
-
-	<key>DEFAULT</key>
-	<string>លំនាំដើម</string>
-
-	<key>STATUS_BAR_TITLE</key>
-	<string>របារ​ស្ថានភាព</string>
-	<key>CUSTOM_CARRIER_TEXT</key>
-	<string>ឈ្មោះសេវា</string>
-	<key>STATUS_CLOCK_FORMAT</key>
-	<string>ម៉ោង​លើ​របារ​ស្ថានភាព</string>
-	<key>STATUS_BAR_FOOTER</key>
-	<string>ទ្រង់​ទ្រាយ​ម៉ោង​លើ​របារ​ស្ថានភាព:
+{
+	"DEFAULT" = "លំនាំដើម";
+	"STATUS_BAR_TITLE" = "របារ​ស្ថានភាព";
+	"CUSTOM_CARRIER_TEXT" = "ឈ្មោះសេវា";
+	"STATUS_CLOCK_FORMAT" = "ម៉ោង​លើ​របារ​ស្ថានភាព";
+	"RESPRING" = "Respring";
+	"SHOW_TIME_ON_LOCKSCREEN" = "បង្ហាញ​ម៉ោង​";
+	"LOCKSCREEN" = "អេក្រង់​ជាប់សោ";
+	"HOMESCREEN" = "គេហអេក្រង់";
+	"HOMESCREEN_STATUS_BAR_FOOTER" = "ប្រសិន​បើ​ការ​លាក់​របារ​ស្ថានភាព​មាន​បញ្ហា សូម​សាក​ល្បង​ធ្វើ​ការ Respring ។";
+	"HIDE_LS_LOCK" = "លាក់​រូប​សោ";
+	"HIDE_STATUS_BAR" = "លាក់​របារ​ស្ថានភាព";
+	"CUSTOM_COLOR" = "ពណ៌";
+	"FOREGROUND_COLOR" = "ពណ៌​ផ្ទៃ​ខាងមុខ";
+	"BACKGROUND_COLOR" = "ពណ៌​ផ្ទៃខាង​ក្រោយ";
+	"SAME_STATUS_BAR_SIZE" = "របារ​ស្ថានភាព​តូច";
+	"STATUS_BAR_FOOTER" = "ទ្រង់​ទ្រាយ​ម៉ោង​លើ​របារ​ស្ថានភាព:
 ថ្ងៃក្នុងសប្ដាហ៍៖ eee:សៅរ៍
 ថ្ងៃទី៖ d:4, dd:04
 ខែ៖ M:4, MM:04, MMM:មេសា
@@ -23,34 +24,8 @@
 នាទី៖ m:4, mm:04
 វិនាទី៖ s:9, ss:09
 ព្រឹក រឺ ល្ងាច៖ a
-ពាក្យធម្មតា៖ 'Text'
+ពាក្យធម្មតា៖ 'Text'​ (ជា​មួយ​នឹង​អព្ភន្តរសញ្ញា)
 
 ឧទាហរណ៍:
-dd|eee|HH:mm ==> 13|ចន្ទ|13:05
-</string>
-	<key>RESPRING</key>
-	<string>Respring</string>
-
-	<key>SHOW_TIME_ON_LOCKSCREEN</key>
-	<string>បង្ហាញ​ម៉ោង​</string>
-
-	<key>LOCKSCREEN</key>
-	<string>អេក្រង់​ជាប់សោ</string>
-	<key>HOMESCREEN</key>
-	<string>គេហអេក្រង់</string>
-	<key>HOMESCREEN_STATUS_BAR_FOOTER</key>
-	<string>ប្រសិន​បើ​ការ​លាក់​របារ​ស្ថានភាព​មាន​បញ្ហា សូម​សាក​ល្បង​ធ្វើ​ការ Respring ។</string>
-	<key>HIDE_LS_LOCK</key>
-	<string>លាក់​រូប​សោ</string>
-	<key>HIDE_STATUS_BAR</key>
-	<string>លាក់​របារ​ស្ថានភាព</string>
-	<key>CUSTOM_COLOR</key>
-	<string>ពណ៌</string>
-	<key>FOREGROUND_COLOR</key>
-	<string>ពណ៌​ផ្ទៃ​ខាងមុខ</string>
-	<key>BACKGROUND_COLOR</key>
-	<string>ពណ៌​ផ្ទៃខាង​ក្រោយ</string>
-	<key>SAME_STATUS_BAR_SIZE</key>
-	<string>របារ​ស្ថានភាព​តូច</string>
-</dict>
-</plist>
+dd|eee|HH:mm ==> 13|ចន្ទ|13:05";
+}

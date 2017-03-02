@@ -1,43 +1,17 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
-<plist version="1.0">
-<dict>
-	<key>DEFAULT</key>
-	<string>លំនាំដើម</string>
-
-	<key>DONE</key>
-	<string>រួចរាល់</string>
-
-	<key>NOTIFICATIONS_TITLE</key>
-	<string>ផ្ទាំង​ជូនដំណឹង</string>
-	<key>NO_NOTIFICATIONS_TEXT</key>
-	<string>No Notifications</string>
-	<key>RESPRING</key>
-	<string>Respring</string>
-
-	<key>POSITION</key>
-	<string>ទីតាំង</string>
-	<key>ADDED_HEIGHT</key>
-	<string>កំពស់​បន្ថែម</string>
-	<key>NOTIFICATIONS_POSITION_FOOTER_TEXT</key>
-	<string>Y ផ្លាស់​ប្ដូរ​ទីតាំង​បញ្ឈរ​ (អរដោនេ) របស់​ផ្ទាំង​ជូន​ដំណឹង​នៅ​លើ​អេក្រង់​ជាប់សោ ។ អ្នក​អាច​បន្ថែម រឺ​បន្ថយ​កំពស់​ផ្ទាំង​ជូន​ដំណឹង​នៅ​លើ​អេក្រង់​ជាប់​សោ​ដោយ​ប្រើ «​កំពស់​បន្ថែម» ។
-
-Y និង «កំពស់​បន្ថែម» អាច​មាន​​តម្លៃ​វិជ្ជមាន រឺ​អវិជ្ជមាន តួយ៉ាង ៥០ រឺ -៥០ ។ លុប​តម្លៃ​បញ្ចូលដើម្បី​ស្ដារ​តម្លៃ​ដើម ។</string>
-
-	<key>LOCK_SCREEN_NOTIFICATIONS</key>
-	<string>លើ​អេក្រង់​ជាប់សោ</string>
-	<key>SUPPRESS_NOTIFICATIONS</key>
-	<string>លាក់​ផ្ទាំង​ជូន​ដំណឹង</string>
-	<key>SUPPRESS_NOTIFICATIONS_WAKE</key>
-	<string>មិន​ឲ្យភ្លឺ​អេក្រង់</string>
-	<key>SUPPRESS_NOTIFICATIONS_SOUND</key>
-	<string>បិទ​សំឡេង</string>
-	<key>LOCK_SCREEN_NOTIFICATIONS_FOOTER</key>
-	<string>អ្នក​អាច​លាក់​ការ​ជូន​ដំណឹង​ទាំង​អស់​នៅ​លើ​អេក្រង់​ជាប់​សោ, ហាម​មិន​ឲ្យ​អេក្រង់​ភ្លឺ​ពេល​មាន​ការ​ជូន​ដំណឹង និង​បិទ​សំឡេង​ជូន​ដំណឹង ។ អ្នក​នៅ​តែ​អាច​មើល​ការ​ជូន​ដំណឹង​ទាំង​អស់​នៅ​ក្នុង​មណ្ឌល​ជូន​ដំណឹង (Notification Center) ។</string>
-
-	<key>POSITION_CLOCK</key>
-	<string>ទីតាំង (ជា​មួយ​ម៉ោង)</string>
-	<key>POSITION_MEDIA</key>
-	<string>ទីតាំង (ជា​មួយ​បញ្ជា​មេឌៀ)</string>
-</dict>
-</plist>
+{
+	"DEFAULT" = "លំនាំដើម";
+	"DONE" = "រួចរាល់";
+	"NOTIFICATIONS_TITLE" = "ផ្ទាំង​ជូនដំណឹង";
+	"NO_NOTIFICATIONS_TEXT" = "No Notifications";
+	"RESPRING" = "Respring";
+	"POSITION" = "ទីតាំង";
+	"ADDED_HEIGHT" = "កំពស់​បន្ថែម";
+	"NOTIFICATIONS_POSITION_FOOTER_TEXT" = "Y ផ្លាស់​ប្ដូរ​ទីតាំង​បញ្ឈរ​ (អរដោនេ) របស់​ផ្ទាំង​ជូន​ដំណឹង​នៅ​លើ​អេក្រង់​ជាប់សោ ។ អ្នក​អាច​បន្ថែម រឺ​បន្ថយ​កំពស់​ផ្ទាំង​ជូន​ដំណឹង​នៅ​លើ​អេក្រង់​ជាប់​សោ​ដោយ​ប្រើ «​កំពស់​បន្ថែម» ។ Y និង «កំពស់​បន្ថែម» អាច​មាន​​តម្លៃ​វិជ្ជមាន រឺ​អវិជ្ជមាន តួយ៉ាង ៥០ រឺ -៥០ ។ លុប​តម្លៃ​បញ្ចូលដើម្បី​ស្ដារ​តម្លៃ​ដើម ។";
+	"LOCK_SCREEN_NOTIFICATIONS" = "លើ​អេក្រង់​ជាប់សោ";
+	"SUPPRESS_NOTIFICATIONS" = "លាក់​ផ្ទាំង​ជូន​ដំណឹង";
+	"SUPPRESS_NOTIFICATIONS_WAKE" = "មិន​ឲ្យភ្លឺ​អេក្រង់";
+	"SUPPRESS_NOTIFICATIONS_SOUND" = "បិទ​សំឡេង";
+	"LOCK_SCREEN_NOTIFICATIONS_FOOTER" = "អ្នក​អាច​លាក់​ការ​ជូន​ដំណឹង​ទាំង​អស់​នៅ​លើ​អេក្រង់​ជាប់​សោ, ហាម​មិន​ឲ្យ​អេក្រង់​ភ្លឺ​ពេល​មាន​ការ​ជូន​ដំណឹង និង​បិទ​សំឡេង​ជូន​ដំណឹង ។ អ្នក​នៅ​តែ​អាច​មើល​ការ​ជូន​ដំណឹង​ទាំង​អស់​នៅ​ក្នុង​មណ្ឌល​ជូន​ដំណឹង (Notification Center) ។";
+	"POSITION_CLOCK" = "ទីតាំង (ជា​មួយ​ម៉ោង)";
+	"POSITION_MEDIA" = "ទីតាំង (ជា​មួយ​បញ្ជា​មេឌៀ)";
+}

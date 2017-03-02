@@ -1,43 +1,17 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
-<plist version="1.0">
-<dict>
-	<key>DEFAULT</key>
-	<string>默认</string>
-
-	<key>DONE</key>
-	<string>完成</string>
-
-	<key>NOTIFICATIONS_TITLE</key>
-	<string>通知</string>
-	<key>NO_NOTIFICATIONS_TEXT</key>
-	<string>没有通知</string>
-	<key>RESPRING</key>
-	<string>重启屏幕</string>
-
-	<key>POSITION</key>
-	<string>Position</string>
-	<key>ADDED_HEIGHT</key>
-	<string>Added Height</string>
-	<key>NOTIFICATIONS_POSITION_FOOTER_TEXT</key>
-	<string>Y changes the vertical coordinate for lock screen notifications view. You can also increase or decrease the height of the notifications view by using "Added Height".
-
-Y and "Added Height" can be positive or negative numbers, for example 50 or -50. Remove the entry to restore the default value</string>
-
-	<key>LOCK_SCREEN_NOTIFICATIONS</key>
-	<string>Lock Screen Notifications</string>
-	<key>SUPPRESS_NOTIFICATIONS</key>
-	<string>Hide Notifications</string>
-	<key>SUPPRESS_NOTIFICATIONS_WAKE</key>
-	<string>Suppress Screen Wake</string>
-	<key>SUPPRESS_NOTIFICATIONS_SOUND</key>
-	<string>Suppress Sounds</string>
-	<key>LOCK_SCREEN_NOTIFICATIONS_FOOTER</key>
-	<string>These options will let you hide notifications on lock screen, suppress screen from turning on when receiving notifications and suppress notifications sounds. You can still see all your notifications in the Notification Center.</string>
-
-	<key>POSITION_CLOCK</key>
-	<string>Position (with Clock)</string>
-	<key>POSITION_MEDIA</key>
-	<string>Position (with Media)</string>
-</dict>
-</plist>
+{
+	"DEFAULT" = "默认";
+	"DONE" = "完成";
+	"NOTIFICATIONS_TITLE" = "通知";
+	"NO_NOTIFICATIONS_TEXT" = "没有通知";
+	"RESPRING" = "重启屏幕";
+	"POSITION" = "Position";
+	"ADDED_HEIGHT" = "Added Height";
+	"NOTIFICATIONS_POSITION_FOOTER_TEXT" = "Y changes the vertical coordinate for lock screen notifications view. You can also increase or decrease the height of the notifications view by using Added Height.\n\nY and Added Height can be positive or negative numbers, for example 50 or -50. Remove the entry to restore the default value.";
+	"LOCK_SCREEN_NOTIFICATIONS" = "Lock Screen Notifications";
+	"SUPPRESS_NOTIFICATIONS" = "Hide Notifications";
+	"SUPPRESS_NOTIFICATIONS_WAKE" = "Suppress Screen Wake";
+	"SUPPRESS_NOTIFICATIONS_SOUND" = "Suppress Sounds";
+	"LOCK_SCREEN_NOTIFICATIONS_FOOTER" = "These options will let you hide notifications on lock screen, suppress screen from turning on when receiving notifications and suppress notifications sounds. You can still see all your notifications in the Notification Center.";
+	"POSITION_CLOCK" = "Position (with Clock)";
+	"POSITION_MEDIA" = "Position (with Media)";
+}

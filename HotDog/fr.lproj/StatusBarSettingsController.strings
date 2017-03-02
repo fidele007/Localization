@@ -1,19 +1,20 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
-<plist version="1.0">
-<dict>
-
-	<key>DEFAULT</key>
-	<string>Défaut</string>
-
-	<key>STATUS_BAR_TITLE</key>
-	<string>Barre de statut</string>
-	<key>CUSTOM_CARRIER_TEXT</key>
-	<string>Nom d'opérateur</string>
-	<key>STATUS_CLOCK_FORMAT</key>
-	<string>Format d'horloge</string>
-	<key>STATUS_BAR_FOOTER</key>
-	<string>Format d'horloge:
+{
+	"DEFAULT" = "Défaut";
+	"STATUS_BAR_TITLE" = "Barre de statut";
+	"CUSTOM_CARRIER_TEXT" = "Nom d'opérateur";
+	"STATUS_CLOCK_FORMAT" = "Format d'horloge";
+	"RESPRING" = "Respring";
+	"SHOW_TIME_ON_LOCKSCREEN" = "Afficher l'horloge";
+	"LOCKSCREEN" = "Écran verrouillé";
+	"HOMESCREEN" = "Écran d'accueil";
+	"HOMESCREEN_STATUS_BAR_FOOTER" = "Si la barre de status n'est pas cachée comme il faut, essayez de redémarrer le SpringBoard.";
+	"HIDE_LS_LOCK" = "Cacher le verrou";
+	"HIDE_STATUS_BAR" = "Cacher la barre de statut";
+	"CUSTOM_COLOR" = "Couleur personnalisée";
+	"FOREGROUND_COLOR" = "Couleur de premier plan";
+	"BACKGROUND_COLOR" = "Couleur de fond";
+	"SAME_STATUS_BAR_SIZE" = "Même barre de statut";
+	"STATUS_BAR_FOOTER" = "Format d'horloge:
 Jour de la semaine: eee:ven., eeee:vendredi
 Jour du mois: d:4, dd:04
 Mois: M:4, MM:04, MMM:avr., MMMM:avril
@@ -26,31 +27,6 @@ AM/PM: a
 Texte personnalisé: 'Texte'
 
 Exemple:
-dd|eee|HH:mm ==> 13|lun.|13:05
-</string>
-	<key>RESPRING</key>
-	<string>Respring</string>
+dd|eee|HH:mm ==> 13|lun.|13:05";
 
-	<key>SHOW_TIME_ON_LOCKSCREEN</key>
-	<string>Afficher l'horloge</string>
-
-	<key>LOCKSCREEN</key>
-	<string>Écran verrouillé</string>
-	<key>HOMESCREEN</key>
-	<string>Écran d'accueil</string>
-	<key>HOMESCREEN_STATUS_BAR_FOOTER</key>
-	<string>Si la barre de status n'est pas cachée comme il faut, essayez de redémarrer le SpringBoard.</string>
-	<key>HIDE_LS_LOCK</key>
-	<string>Cacher le verrou</string>
-	<key>HIDE_STATUS_BAR</key>
-	<string>Cacher la barre de statut</string>
-	<key>CUSTOM_COLOR</key>
-	<string>Couleur personnalisée</string>
-	<key>FOREGROUND_COLOR</key>
-	<string>Couleur de premier plan</string>
-	<key>BACKGROUND_COLOR</key>
-	<string>Couleur de fond</string>
-	<key>SAME_STATUS_BAR_SIZE</key>
-	<string>Même barre de statut</string>
-</dict>
-</plist>
+}

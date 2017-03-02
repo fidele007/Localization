@@ -1,14 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
-<plist version="1.0">
-<dict>
-	<key>HIDDEN_TEXT</key>
-	<string>D'après la légende, les hot-dogs ou « frankfurters » ont leur origine à Francfort-sur-le-Main, Allemagne autour de 1484.</string>
-	<key>RESPRING_TEXT</key>
-	<string>Voulez-vous faire un respring maintenant pour effectuer les changements?</string>
-	<key>LATER</key>
-	<string>Plus tard</string>
-	<key>OK</key>
-	<string>OK</string>
-</dict>
-</plist>
+{
+	"HIDDEN_TEXT" = "D'après la légende, les hot-dogs ou « frankfurters » ont leur origine à Francfort-sur-le-Main, Allemagne autour de 1484.";
+	"RESPRING_TEXT" = "Voulez-vous faire un respring maintenant pour effectuer les changements?";
+	"LATER" = "Plus tard";
+	"OK" = "OK";
+}

@@ -1,30 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
-<plist version="1.0">
-<dict>
-	<key>DEFAULT</key>
-	<string>Défaut</string>
-
-	<key>DONE</key>
-	<string>Sauvegarder</string>
-
-	<key>PASSCODE_LOCK_VIEW_TITLE</key>
-	<string>Écran de code</string>
-	<key>PASSCODE_LOCK_VIEW_FOOTER</key>
-	<string>Tapez sur Sauvegarder pour sauvegarder les changements sans besoin d'un repsring. Laissez le champ vide pour revenir aux paramètres par défaut.
-
-Utilisez "\n" (sans guillemets) pour insérer un saut de ligne pour "Saisir le code" et "Réessayez".</string>
-	<key>PASSCODE</key>
-	<string>Saisie du code</string>
-	<key>PASSCODE_TEXT</key>
-	<string>Touch ID ou saisie du code</string>
-	<key>TRY_AGAIN</key>
-	<string>Réessayez</string>
-	<key>EMERGENCY</key>
-	<string>Urgence</string>
-	<key>CANCEL</key>
-	<string>Annuler</string>
-	<key>DELETE</key>
-	<string>Effacer</string>
-</dict>
-</plist>
+{
+	"DEFAULT" = "Défaut";
+	"DONE" = "Sauvegarder";
+	"PASSCODE_LOCK_VIEW_TITLE" = "Écran de code";
+	"PASSCODE_LOCK_VIEW_FOOTER" = "Tapez sur Sauvegarder pour sauvegarder les changements sans besoin d'un repsring. Laissez le champ vide pour revenir aux paramètres par défaut.\n\nUtilisez \\n pour insérer un saut de ligne pour Saisir le code et Réessayez.";
+	"PASSCODE" = "Saisie du code";
+	"PASSCODE_TEXT" = "Touch ID ou saisie du code";
+	"TRY_AGAIN" = "Réessayez";
+	"EMERGENCY" = "Urgence";
+	"CANCEL" = "Annuler";
+	"DELETE" = "Effacer";
+}

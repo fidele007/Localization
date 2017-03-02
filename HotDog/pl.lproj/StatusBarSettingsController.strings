@@ -1,18 +1,21 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
-<plist version="1.0">
-<dict>
-	<key>DEFAULT</key>
-	<string>Domyślny</string>
-
-	<key>STATUS_BAR_TITLE</key>
-	<string>PASEK STANU</string>
-	<key>CUSTOM_CARRIER_TEXT</key>
-	<string>Nazwa Sieci</string>
-	<key>STATUS_CLOCK_FORMAT</key>
-	<string>Format Zegara</string>
-	<key>STATUS_BAR_FOOTER</key>
-	<string>FORMAT ZEGARA:
+{
+	"DEFAULT" = "Domyślny";
+	"STATUS_BAR_TITLE" = "PASEK STANU";
+	"CUSTOM_CARRIER_TEXT" = "Nazwa Sieci";
+	"STATUS_CLOCK_FORMAT" = "Format Zegara";
+	"RESPRING" = "Respring";
+	"DONE" = "Zatwierdź";
+	"SHOW_TIME_ON_LOCKSCREEN" = "Show Time";
+	"LOCKSCREEN" = "Lock Screen";
+	"HOMESCREEN" = "Home Screen";
+	"HOMESCREEN_STATUS_BAR_FOOTER" = "If hiding status bar does not work, try restarting the SpringBoard.";
+	"HIDE_LS_LOCK" = "Hide Lock";
+	"HIDE_STATUS_BAR" = "Hide Status Bar";
+	"CUSTOM_COLOR" = "Custom Color";
+	"FOREGROUND_COLOR" = "Foreground Color";
+	"BACKGROUND_COLOR" = "Background Color";
+	"SAME_STATUS_BAR_SIZE" = "Small Status Bar";
+	"STATUS_BAR_FOOTER" = "FORMAT ZEGARA:
 Dzień tygodnia: eee:Sob, eeee:Sobota
 Dzień miesiąca: d:4, dd:04
 Miesiąc: M:4, MM:04, MMM:Lip, MMMM:Lipiec, MMMMM:L
@@ -25,34 +28,5 @@ AM/PM: a
 Własny tekst: 'Tekst'
 
 Przykład:
-dd|eee|HH:mm ==> 13|Pon|13:05
-</string>
-	<key>RESPRING</key>
-	<string>Respring</string>
-
-	<key>DONE</key>
-	<string>Zatwierdź</string>
-
-	<key>SHOW_TIME_ON_LOCKSCREEN</key>
-	<string>Show Time</string>
-
-	<key>LOCKSCREEN</key>
-	<string>Lock Screen</string>
-	<key>HOMESCREEN</key>
-	<string>Home Screen</string>
-	<key>HOMESCREEN_STATUS_BAR_FOOTER</key>
-	<string>If hiding status bar does not work, try restarting the SpringBoard.</string>
-	<key>HIDE_LS_LOCK</key>
-	<string>Hide Lock</string>
-	<key>HIDE_STATUS_BAR</key>
-	<string>Hide Status Bar</string>
-	<key>CUSTOM_COLOR</key>
-	<string>Custom Color</string>
-	<key>FOREGROUND_COLOR</key>
-	<string>Foreground Color</string>
-	<key>BACKGROUND_COLOR</key>
-	<string>Background Color</string>
-	<key>SAME_STATUS_BAR_SIZE</key>
-	<string>Small Status Bar</string>
-</dict>
-</plist>
+dd|eee|HH:mm ==> 13|Pon|13:05";
+}

@@ -1,40 +1,18 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
-<plist version="1.0">
-<dict>
-	<key>DEFAULT</key>
-	<string>Défaut</string>
-
-	<key>SLIDE_TO_UNLOCK_TITLE</key>
-	<string>« Déverrouiller »</string>
-	<key>SLIDE_TO_UNLOCK_FOOTER</key>
-	<string>Phrase 1 est la phrase « Déverrouiller » qui apparaît en premier lieu sur l'écran verrouillé. Phrase 2 est la phrase « Réessayez » présenté lors de l'échec d'authentification de Touch ID.</string>
-	<key>SLIDE_TO_UNLOCK_TEXT</key>
-	<string>« Déverrouiller »</string>
-	<key>CUSTOM_COLOR</key>
-	<string>Couleur personnalisée</string>
-	<key>PICK_COLOR</key>
-	<string>Choisir la couleur</string>
-	<key>DONE</key>
-	<string>Sauvegarder</string>
-	<key>POSITION</key>
-	<string>Position</string>
-	<key>POSITION_FOOTER</key>
-	<string>X et Y peuvent être un nombre positif ou négatif comme 50 ou -50. Enlevez la valeur entrée pour restaurer la valeur par défaut.</string>
-
-	<key>DEFAULT_STRING</key>
-	<string>Phrase 1</string>
-	<key>SECONDARY_STRING</key>
-	<string>Phrase 2</string>
-	<key>TRY_AGAIN</key>
-	<string>Réessayez</string>
-	<key>HIDE_CHEVRON</key>
-	<string>Cacher le chevron</string>
-  <key>HIDE_PHRASE</key>
-  <string>Cacher la phrase</string>
-	<key>SHOW_IMMEDIATELY</key>
-	<string>Afficher immédiatement</string>
-  <key>FONT_SIZE</key>
-	<string>Taille de police</string>
-</dict>
-</plist>
+{
+	"DEFAULT" = "Défaut";
+	"SLIDE_TO_UNLOCK_TITLE" = "« Déverrouiller »";
+	"SLIDE_TO_UNLOCK_FOOTER" = "Phrase 1 est la phrase « Déverrouiller » qui apparaît en premier lieu sur l'écran verrouillé. Phrase 2 est la phrase « Réessayez » présenté lors de l'échec d'authentification de Touch ID.";
+	"SLIDE_TO_UNLOCK_TEXT" = "« Déverrouiller »";
+	"CUSTOM_COLOR" = "Couleur personnalisée";
+	"PICK_COLOR" = "Choisir la couleur";
+	"DONE" = "Sauvegarder";
+	"POSITION" = "Position";
+	"POSITION_FOOTER" = "X et Y peuvent être un nombre positif ou négatif comme 50 ou -50. Enlevez la valeur entrée pour restaurer la valeur par défaut.";
+	"DEFAULT_STRING" = "Phrase 1";
+	"SECONDARY_STRING" = "Phrase 2";
+	"TRY_AGAIN" = "Réessayez";
+	"HIDE_CHEVRON" = "Cacher le chevron";
+  "HIDE_PHRASE" = "Cacher la phrase";
+	"SHOW_IMMEDIATELY" = "Afficher immédiatement";
+  "FONT_SIZE" = "Taille de police";
+}

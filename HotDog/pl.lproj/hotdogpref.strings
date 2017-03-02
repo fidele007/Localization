@@ -1,40 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
-<plist version="1.0">
-<dict>
-	<key>STATUS_BAR_TITLE</key>
-	<string>PASEK STANU</string>
-
-	<key>LOCKSCREEN_DATETIME_TITLE</key>
-	<string>Zegar|Data Ekranu Blokady</string>
-
-	<key>SLIDE_TO_UNLOCK_TITLE</key>
-	<string>Pole "odblokuj"</string>
-
-	<key>PASSCODE_LOCK_VIEW_TITLE</key>
-	<string>Widok Hasła</string>
-
-	<key>PHONE_UI_TITLE</key>
-	<string>Połączenie</string>
-
-	<key>NOTIFICATIONS_TITLE</key>
-	<string>Powiadomienia</string>
-
-	<key>POWERDOWN_TITLE</key>
-	<string>Eekran Wyłączania</string>
-
-	<key>MEDIA_CONTROLS_TITLE</key>
-	<string>Głoska bezdźwięczna</string>
-
-	<key>OTHERS_TITLE</key>
-	<string>Inni</string>
-
-	<key>ABOUT</key>
-	<string>O MNIE</string>
-	<key>DONATE</key>
-	<string>Wspomórz przez PayPal</string>
-
-	<key>CREDITS</key>
-	<key>Credits to translators</key>
-</dict>
-</plist>
+{
+	"STATUS_BAR_TITLE" = "PASEK STANU";
+	"LOCKSCREEN_DATETIME_TITLE" = "Zegar & Data Ekranu Blokady";
+	"SLIDE_TO_UNLOCK_TITLE" = "Pole \"odblokuj\"";
+	"PASSCODE_LOCK_VIEW_TITLE" = "Widok Hasła";
+	"PHONE_UI_TITLE" = "Połączenie";
+	"NOTIFICATIONS_TITLE" = "Powiadomienia";
+	"POWERDOWN_TITLE" = "Eekran Wyłączania";
+	"MEDIA_CONTROLS_TITLE" = "Głoska bezdźwięczna";
+	"OTHERS_TITLE" = "Inni";
+	"ABOUT" = "O MNIE";
+	"DONATE" = "Wspomórz przez PayPal";
+	"CREDITS" = "Credits to translators";
+}

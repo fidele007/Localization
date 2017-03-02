@@ -1,18 +1,35 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
-<plist version="1.0">
-<dict>
-
-	<key>DEFAULT</key>
-	<string>Default</string>
-
-	<key>DONE</key>
-	<string>Done</string>
-
-	<key>LOCKSCREEN_DATETIME_TITLE</key>
-	<string>Lockscreen Date|Time</string>
-	<key>LOCKSCREEN_DATETIME_FOOTER</key>
-	<string>DATE|TIME FORMAT:
+{
+	"DEFAULT" = "Default";
+	"DONE" = "Done";
+	"LOCKSCREEN_DATETIME_TITLE" = "Lock Screen Date & Time";
+	"TIME_FORMAT" = "Time Format";
+	"TIME_FONT_SIZE" = "Time Font Size";
+	"DATE_FORMAT" = "Date Format";
+	"DATE_FONT_SIZE" = "Date Font Size";
+	"CUSTOM_COLOR" = "Custom Date & Time Color";
+	"PICK_COLOR_DEFAULT" = "Primary Color";
+	"PICK_COLOR_WITH_NOTIFICATION" = "Secondary Color";
+	"POSITION_DEFAULT" = "Position (Default)";
+	"POSITION_FOOTER" = "X and Y can be positive or negative numbers, for example 50 or -50. Remove the entry to reset to its default value.";
+	"FONT_SIZE" = "Font Size";
+	"X_(TIME):" = "X (Time):";
+	"Y_(TIME):" = "Y (Time):";
+	"X_(DATE):" = "X (Date):";
+	"Y_(DATE):" = "Y (Date):";
+	"ALWAYS_SHOW_DATE_FOOTER_TEXT" = "While charging, turning on the lock screen view will first show the charging label and the Date label is shown only after the charging label disappears. This option will enable the Date label to be shown immediately. This is useful if you change the Date label's position.";
+	"ALWAYS_SHOW_DATE" = "Show Date immediately";
+	"ENABLE_ALIGNMENT" = "Alignment";
+	"ALIGNMENT_FOOTER" = "Alignment is still an experimental feature, so bugs are expected. The position of labels with alignment enabled is different from normal labels with no alignment.\n\nIf you choose Right alignment, the X position will be the space between the right side of the screen and the label.";
+	"TIME_LABEL_ALIGNMENT" = "Time Label";
+	"DATE_LABEL_ALIGNMENT" = "Date Label";
+	"LEFT" = "Left";
+	"CENTER" = "Center";
+	"RIGHT" = "Right";
+	"BOLD_TIME" = "Bold Time";
+	"POSITION_WITH_MEDIA" = "Position (with Media)";
+	"SHOW_DATE_TIME_WITH_MEDIA" = "Show Date & Time With Media";
+	"CUSTOM_COLOR_FOOTER" = "Primary Color refers to the default Date & Time colors on lock screen, whereas the Secondary Color refers to the Date & Time colors when there are notifications or playing media.";
+	"LOCKSCREEN_DATETIME_FOOTER" = "Date & Time Format:
 Weekday: eee:Sat, eeee:Saturday
 Day of Month: d:4, dd:04
 Month: M:4, MM:04, MMM:Apr, MMMM:April, MMMMM:A
@@ -23,79 +40,11 @@ Minute: m:4, mm:04
 Second: s:5, ss:05 (only for iOS 8+)
 AM/PM: a
 Custom string: 'Text' (with quotes)
-Newline: \n (only for Date)
+Newline: \\n (only for Date)
 
 Example:
 eeee|dd|MMMM|yyyy ==> Monday|13|April|2015
 
 Note:
-For now, for the time format to work correctly, you should disable 24-Hour Time in Settings &gt; General &gt; Date &amp; Time.
-</string>
-	<key>TIME_FORMAT</key>
-	<string>Time Format</string>
-	<key>TIME_FONT_SIZE</key>
-	<string>Time Font Size</string>
-	<key>DATE_FORMAT</key>
-	<string>Date Format</string>
-	<key>DATE_FONT_SIZE</key>
-	<string>Date Font Size</string>
-	<key>CUSTOM_COLOR</key>
-	<string>Custom Date|Time Color</string>
-	<key>PICK_COLOR_DEFAULT</key>
-	<string>Primary Color</string>
-	<key>PICK_COLOR_WITH_NOTIFICATION</key>
-	<string>Secondary Color</string>
-
-	<key>POSITION_DEFAULT</key>
-	<string>Position (Default)</string>
-	<key>POSITION_FOOTER</key>
-	<string>X and Y can be positive or negative numbers, for example 50 or -50. Remove the entry to reset to its default value.</string>
-
-	<key>FONT_SIZE</key>
-	<string>Font Size</string>
-
-	<key>X_(TIME):</key>
-	<string>X (Time):</string>
-	<key>Y_(TIME):</key>
-	<string>Y (Time):</string>
-
-	<key>X_(DATE):</key>
-	<string>X (Date):</string>
-	<key>Y_(DATE):</key>
-	<string>Y (Date):</string>
-
-	<key>ALWAYS_SHOW_DATE_FOOTER_TEXT</key>
-	<string>While charging, turning on the lock screen view will first show the charging label and the Date label is shown only after the charging label disappears. This option will enable the Date label to be shown immediately. This is useful if you change the Date label's position.</string>
-	<key>ALWAYS_SHOW_DATE</key>
-	<string>Show Date immediately</string>
-
-  <key>ENABLE_ALIGNMENT</key>
-	<string>Alignment</string>
-	<key>ALIGNMENT_FOOTER</key>
-	<string>Alignment is still an experimental feature, so bugs are expected. The position of labels with alignment enabled is different from normal labels with no alignment.
-
-If you choose Right alignment, the X position will be the space between the right side of the screen and the label.</string>
-
-  <key>TIME_LABEL_ALIGNMENT</key>
-  <string>Time Label</string>
-	<key>DATE_LABEL_ALIGNMENT</key>
-	<string>Date Label</string>
-	<key>LEFT</key>
-	<string>Left</string>
-	<key>CENTER</key>
-	<string>Center</string>
-	<key>RIGHT</key>
-	<string>Right</string>
-
-	<key>BOLD_TIME</key>
-	<string>Bold Time</string>
-
-	<key>POSITION_WITH_MEDIA</key>
-	<string>Position (with Media)</string>
-	<key>SHOW_DATE_TIME_WITH_MEDIA</key>
-	<string>Show Date|Time With Media</string>
-
-	<key>CUSTOM_COLOR_FOOTER</key>
-	<string>Primary Color refers to the default Date|Time colors on lock screen, whereas the Secondary Color refers to the Date|Time colors when there are notifications or playing media.</string>
-</dict>
-</plist>
+For the time format to work correctly, you should disable 24-Hour Time in Settings > General > Date & Time.";
+}

@@ -1,18 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
-<plist version="1.0">
-<dict>
-	<key>DEFAULT</key>
-	<string>Default</string>
-
-	<key>DONE</key>
-	<string>Done</string>
-
-	<key>POWERDOWN_TITLE</key>
-	<string>Power Down View</string>
-	<key>SLIDE_TO_TURN_OFF_TEXT</key>
-	<string>slide to power off</string>
-	<key>CANCEL</key>
-	<string>Cancel</string>
-</dict>
-</plist>
+{
+	"DEFAULT" = "Default";
+	"DONE" = "Done";
+	"POWERDOWN_TITLE" = "Power Down View";
+	"SLIDE_TO_TURN_OFF_TEXT" = "slide to power off";
+	"CANCEL" = "Cancel";
+}

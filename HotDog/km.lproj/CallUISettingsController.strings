@@ -1,24 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
-<plist version="1.0">
-<dict>
-	<key>DEFAULT</key>
-	<string>លំនាំដើម</string>
-
-	<key>DONE</key>
-	<string>រួចរាល់</string>
-
-	<key>PHONE_UI_TITLE</key>
-	<string>ផ្ទាំង​ហៅ​ចូល</string>
-	<key>SLIDE_TO_ANSWER_TEXT</key>
-	<string>slide to answer</string>
-	<key>REMIND_ME_LABEL</key>
-	<string>Remind me</string>
-	<key>MESSAGE_LABEL</key>
-	<string>Message</string>
-	<key>DECLINE_LABEL</key>
-	<string>Decline</string>
-	<key>ACCEPT_LABEL</key>
-	<string>Accept</string>
-</dict>
-</plist>
+{
+	"DEFAULT" = "លំនាំដើម";
+	"DONE" = "រួចរាល់";
+	"PHONE_UI_TITLE" = "ផ្ទាំង​ហៅ​ចូល";
+	"SLIDE_TO_ANSWER_TEXT" = "slide to answer";
+	"REMIND_ME_LABEL" = "Remind me";
+	"MESSAGE_LABEL" = "Message";
+	"DECLINE_LABEL" = "Decline";
+	"ACCEPT_LABEL" = "Accept";
+}
