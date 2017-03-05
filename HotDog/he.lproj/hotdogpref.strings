@@ -1,0 +1,14 @@
+{
+	"STATUS_BAR_TITLE" = "שורת מצב";
+	"LOCKSCREEN_DATETIME_TITLE" = "שעה ותאריך במסך נעילה";
+	"SLIDE_TO_UNLOCK_TITLE" = "החלק/י לפתיחה";
+	"PASSCODE_LOCK_VIEW_TITLE" = "תצוגת סיסמה";
+	"PHONE_UI_TITLE" = "תצוגת שיחה";
+	"NOTIFICATIONS_TITLE" = "עדכונים";
+	"POWERDOWN_TITLE" = "תצוגת כיבוי";
+	"MEDIA_CONTROLS_TITLE" = "מדיה";
+	"OTHERS_TITLE" = "אחרים";
+	"ABOUT" = "אודותיי";
+	"DONATE" = "תרום/תרמי דרך PayPal";
+	"CREDITS" = "קרדיטים למתרגמים";
+}

@@ -1,0 +1,32 @@
+{
+	"MEDIA_FOOTER" = "ערכי X וY יכולים להיות מספרים חיוביים או שליליים, לדוגמה 50 או -50. מחק/י כדי לאפס לברירת המחדל. בנוגע למיקום סליידר הווליום, ערכי ברירת המחדל מופיעים בשדות הכתיבה (כשומרי מקום)";
+	"MEDIA_CONTROLS_TITLE" = "מדיה";
+	"DEFAULT" = "ברירת מחדל";
+	"DONE" = "סיום";
+	"MEDIA_CONTROLS_POSITION" = "מיקום שליטת מדיה";
+	"ALBUM_ART_POSITION" = "מיקום תמונת אלבום";
+	"VOLUME_SLIDER_POSITION" = "מיקום סליידר ווליום";
+	"VOLUME_SLIDER_Y" = "מרווח (מסך הנעילה)";
+	"CC_VOLUME_SLIDER_Y" = "מרווח (מרכז הבקרה)";
+	"X_DEFAULT" = "X (ברירת מחדל)";
+	"Y_DEFAULT" = "Y (ברירת מחדל)";
+	"X_NOTIFICATIONS" = "X (עדכונים)";
+	"Y_NOTIFICATIONS" = "Y (עדכונים)";
+	"X_MEDIA" = "X (עם מדיה)";
+	"Y_MEDIA" = "Y (עם מדיה)";
+	"X_CLOCK" = "X (עם שעון)";
+	"Y_CLOCK" = "Y (עם שעון)";
+	"ALBUM_ART_SIZE" = "גודל תמונת אלבום";
+  "MEDIA_CONTROLS_DEFAULT" = "Media Controls (Default)";
+  "MEDIA_CONTROLS_NOTIFICATIONS" = "Media Controls (Notifications)";
+  "WIDTH" = "Width";
+  "HEIGHT" = "Height";
+  "VOLUME_SLIDER" = "Volume Slider";
+  "TINY" = "Tiny";
+  "SMALL" = "Small";
+  "NORMAL" = "Normal";
+  "ALWAYS_SHOW_ALBUM_ART" = "Always Show Album Art";
+  "ALBUM_ART_DEFAULT" = "Album Art (Default)";
+  "ALBUM_ART_WITH_NOTIFICATIONS" = "Album Art (Notifications)";
+  "ALBUM_ART_WITH_CLOCK" = "Album Art (Clock)";
+}

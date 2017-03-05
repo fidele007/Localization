@@ -1,4 +1,5 @@
 {
+  "HIDE_DATE_TIME" = "Hide Date & Time";
 	"DEFAULT" = "默认";
 	"LOCKSCREEN_DATETIME_TITLE" = "锁定屏幕 时间|日期";
 	"TIME_FORMAT" = "时间格式";

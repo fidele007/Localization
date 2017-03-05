@@ -1,0 +1,31 @@
+{
+	"DEFAULT" = "ברירת מחדל";
+	"STATUS_BAR_TITLE" = "שורת מצב";
+	"CUSTOM_CARRIER_TEXT" = "מפעיל מותאם אישית";
+	"STATUS_CLOCK_FORMAT" = "פורמט שעון מצב";
+	"RESPRING" = "ריספרינג";
+	"LOCKSCREEN" = "מסך נעילה";
+	"HOMESCREEN" = "מסך בית";
+	"HOMESCREEN_STATUS_BAR_FOOTER" = "אם הסתרת שורת המצב לא עובדת, נסה/י לבצע ריספרינג.";
+	"HIDE_LS_LOCK" = "הסתר מנעול";
+	"HIDE_STATUS_BAR" = "הסתר שורת מצב";
+	"CUSTOM_COLOR" = "צבע מותאם אישית";
+	"FOREGROUND_COLOR" = "צבע קידמה";
+	"BACKGROUND_COLOR" = "צבע רקע";
+	"SAME_STATUS_BAR_SIZE" = "שורת מצב קטנה";
+	"SHOW_TIME_ON_LOCKSCREEN" = "הצג שעה";
+	"STATUS_BAR_FOOTER" = "פורמט שעון מצב:
+יום בשבוע: ee:שב, eeee:שבת
+יום בחודש: d:4, dd:04
+חודש: M:4, MM:04, MMM:אפר, MMMM:אפריל, MMMMMM:א
+שנה: y:2015, yy:15
+12-שעות: h:9, hh:09
+24-שעות: H:1, HH:01
+דקות: m:4, mm:04
+שניות: s:5, ss:05 (רק בiOS 8+)
+לפני/אחרי הצהריים (לפ׳/אח׳): a
+מחרוזת מותאמת אישית: ׳טקסט׳
+
+דוגמה:
+dd|eee|HH:mm ==> 13|שני|13:05";
+}

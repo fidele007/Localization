@@ -1,4 +1,5 @@
 {
+  "HIDE_DATE_TIME" = "Hide Date & Time";
 	"DEFAULT" = "Default";
 	"DONE" = "Done";
 	"LOCKSCREEN_DATETIME_TITLE" = "Lock Screen Date & Time";

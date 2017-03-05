@@ -1,4 +1,5 @@
 {
+  "HIDE_DATE_TIME" = "Hide Date & Time";
 	"DEFAULT" = "Domyślny";
 	"LOCKSCREEN_DATETIME_TITLE" = "ZEGAR|DATA EKRANU BLOKADY";
 	"TIME_FORMAT" = "Format Zegara";

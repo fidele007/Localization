@@ -1,0 +1,10 @@
+{
+	"PHONE_UI_TITLE" = "תצוגת שיחה";
+	"SLIDE_TO_ANSWER_TEXT" = "החלק/י כדי לענות";
+	"REMIND_ME_LABEL" = "הזכר לי";
+	"MESSAGE_LABEL" = "הודעה";
+	"DECLINE_LABEL" = "סרב/י";
+	"ACCEPT_LABEL" = "קבל/י";
+	"DEFAULT" = "ברירת מחדל";
+	"DONE" = "סיום";
+}

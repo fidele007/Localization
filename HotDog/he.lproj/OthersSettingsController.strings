@@ -1,0 +1,23 @@
+{
+	"OTHERS_TITLE" = "אחרים";
+	"GRABBERS" = "תופסנים";
+	"HIDE_NC_GRABBER" = "הסתר תופסן מרכז עדכונים";
+	"HIDE_CC_GRABBER" = "הסתר תופסן מרכז בקרה";
+	"HIDE_CAMERA_GRABBER" = "הסתר תופסן מצלמה";
+	"DISABLE_CAMERA" = "בטל מצלמה";
+	"DISABLE_LOCK_SCREEN_BLUR_RADIUS" = "בטל טשטוש מסך נעיךה";
+	"DEFAULT" = "ברירת מחדל";
+	"DONE" = "סיום";
+	"CHARGING_VIEW_FOOTER" = "X וY יכולים להיות מספרים חיוביים או שליליים, לדוגמה 50 או -50. מחק/י כדי לאפס לערך ברירת המחדל.";
+	"TIMER_VIEW_FOOTER" = "X וY יכולים להיות מספרים חיוביים או שליליים, לדוגמה 50 או -50. מחק/י כדי לאפס לערך ברירת המחדל.";
+	"TIMER_VIEW" = "תצוגת שעון עצר";
+	"CHARGING_VIEW" = "תצוגת הטענה";
+	"HIDE_CHARGING_VIEW" = "הסתר תצוגת הטענה";
+	"ALWAYS_SHOW_CHARGING_VIEW" = "הצג תמיד";
+	"LOCKSCREEN_IDLE_DURATION" = "זמן פעולת מסך נעילה";
+	"LOCKSCREEN_IDLE_DURATION_FOOTER" = "אופציה זו מאפשר לך לשנות את משך הזמן (בשניות) לפני שמסך הנעילה מתכבה אוטומטית. ניתן להכניס -1 כדי לקבל משך זמן אינסופי.";
+	"DURATION_NORMAL" = "משך זמן (נורמלי) 0:";
+	"DURATION_DOCKED" = "משך זמן (בטעינה):";
+	"LOCK_SCREEN" = "מסך נעילה";
+	"HIDE_PAGE_DOTS" = "הסתר נקודות דפים";
+}

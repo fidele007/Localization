@@ -1,0 +1,17 @@
+{
+	"DEFAULT" = "ברירת מחדל";
+	"DONE" = "ברירת מחדל";
+	"NOTIFICATIONS_TITLE" = "עדכונים";
+	"NO_NOTIFICATIONS_TEXT" = "אין עדכונים";
+	"RESPRING" = "ריספרינג";
+	"POSITION" = "מיקום";
+	"ADDED_HEIGHT" = "גובה נוסף";
+	"NOTIFICATIONS_POSITION_FOOTER_TEXT" = "Y משנה את הקורדינציה האנכית של תצוגת העדכונים במסך הנעילה. ניתן גם להגדיל או להקטין את הגובה של תצוגת העדכונים בעזרת שימוש בגובה נוסף.\n\nY וגובה נוסף יכולים להיות מספרים חיוביים או שליליים, לדוגמה 50 או -50. מחק/י על מנת לאפס לערך ברירת המחדל.";
+	"LOCK_SCREEN_NOTIFICATIONS" = "עדכוני מסך נעילה";
+	"SUPPRESS_NOTIFICATIONS" = "הסתר עדכונים";
+	"SUPPRESS_NOTIFICATIONS_WAKE" = "בטל הערת מסך";
+	"SUPPRESS_NOTIFICATIONS_SOUND" = "בטל צלילים";
+	"LOCK_SCREEN_NOTIFICATIONS_FOOTER" = "אופציות אלו יאפשרו לך להסתיר עדכונים במסך הנעילה, למנוע מהמסך להידלק עם קבלת עדכונים ולמנוע צלילי עדכונים. עדיין באפשרותך לראות את כל העדכונים במרכז העדכונים.";
+	"POSITION_CLOCK" = "מיקום (עם שעון)";
+	"POSITION_MEDIA" = "מיקום (עם מדיה)";
+}

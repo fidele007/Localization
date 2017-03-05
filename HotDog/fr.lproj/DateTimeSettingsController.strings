@@ -1,4 +1,5 @@
 {
+  "HIDE_DATE_TIME" = "Cacher la date et l'horloge";
 	"DEFAULT" = "Défaut";
 	"DONE" = "Sauvegarder";
 	"LOCKSCREEN_DATETIME_TITLE" = "Date & heure sur l'écr. verrouillé";
