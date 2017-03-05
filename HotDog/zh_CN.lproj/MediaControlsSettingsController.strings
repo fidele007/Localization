@@ -1,5 +1,5 @@
 {
-	"MEDIA_FOOTER" = "X and Y can be positive or negative numbers, for example 50 or -50. Remove the entry to restore the default value.";
+	"MEDIA_FOOTER" = "X and Y can be positive or negative numbers, for example 50 or -50. Remove the entry to restore the default value.\n\nAlbum Art position with Notifications only work on iOS 10+, and Album Art position with Clock only works on iOS 9 and under.";
 	"MEDIA_CONTROLS_TITLE" = "Media";
 	"DEFAULT" = "Default";
 	"DONE" = "Done";
@@ -17,4 +17,16 @@
 	"X_CLOCK" = "X (with Clock)";
 	"Y_CLOCK" = "Y (with Clock)";
 	"ALBUM_ART_SIZE" = "Album Art Size";
+  "MEDIA_CONTROLS_DEFAULT" = "Media Controls (Default)";
+  "MEDIA_CONTROLS_NOTIFICATIONS" = "Media Controls (Notifications)";
+  "WIDTH" = "Width";
+  "HEIGHT" = "Height";
+  "VOLUME_SLIDER" = "Volume Slider";
+  "TINY" = "Tiny";
+  "SMALL" = "Small";
+  "NORMAL" = "Normal";
+  "ALWAYS_SHOW_ALBUM_ART" = "Always Show Album Art";
+  "ALBUM_ART_DEFAULT" = "Album Art (Default)";
+  "ALBUM_ART_WITH_NOTIFICATIONS" = "Album Art (Notifications)";
+  "ALBUM_ART_WITH_CLOCK" = "Album Art (Clock)";
 }

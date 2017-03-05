@@ -1,5 +1,5 @@
 {
-	"MEDIA_FOOTER" = "X et Y peuvent être un nombre positif ou négatif comme 50 ou -50. Enlevez la valeur entrée pour restaurer la valeur par défaut. Pour la position de volume, il y a des valeurs par défaut indiquées dans les champs d'entrée.";
+	"MEDIA_FOOTER" = "X et Y peuvent être un nombre positif ou négatif comme 50 ou -50. Enlevez la valeur entrée pour restaurer la valeur par défaut.\n\nLa position de couverture d'album avec Notifications ne marche que sur iOS 10+, et celle avec Horloge ne marche que sur iOS 9 et les versions inférieures d'iOS.";
 	"MEDIA_CONTROLS_TITLE" = "Média";
 	"DEFAULT" = "Défaut";
 	"DONE" = "Sauvegarder";
@@ -17,4 +17,16 @@
 	"X_CLOCK" = "X (avec Horloge)";
 	"Y_CLOCK" = "Y (avec Horloge)";
 	"ALBUM_ART_SIZE" = "Taille de couverture d'album";
+  "MEDIA_CONTROLS_DEFAULT" = "Contrôles de Média (Défaut)";
+  "MEDIA_CONTROLS_NOTIFICATIONS" = "Contrôles de Média (Notifications)";
+  "WIDTH" = "Largeur";
+  "HEIGHT" = "Hauteur";
+  "VOLUME_SLIDER" = "Curseur de Volume";
+  "TINY" = "Miniscule";
+  "SMALL" = "Petit";
+  "NORMAL" = "Normal";
+  "ALWAYS_SHOW_ALBUM_ART" = "Afficher toujours la couverture d'album";
+  "ALBUM_ART_DEFAULT" = "Couverture d'album (Défaut)";
+  "ALBUM_ART_WITH_NOTIFICATIONS" = "Couverture d'album (Notifications)";
+  "ALBUM_ART_WITH_CLOCK" = "Couverture d'album (Horloge)";
 }

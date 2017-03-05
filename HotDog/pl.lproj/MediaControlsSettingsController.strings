@@ -1,5 +1,5 @@
 {
-	"MEDIA_FOOTER" = "Stanowisko akceptuje numery zarówno pozytywne jak i negatywne, na przykład 50 lub -50. Usuń wpis, aby przywrócić wartość domyślną. For the volume slider position, the default values are shown in the entry fields (as placeholders).";
+	"MEDIA_FOOTER" = "Stanowisko akceptuje numery zarówno pozytywne jak i negatywne, na przykład 50 lub -50. Usuń wpis, aby przywrócić wartość domyślną.\n\nAlbum Art position with Notifications only work on iOS 10+, and Album Art position with Clock only works on iOS 9 and under.";
 	"MEDIA_CONTROLS_TITLE" = "Głoska bezdźwięczna";
 	"DEFAULT" = "Domyślny";
 	"DONE" = "Zatwierdź";
@@ -17,4 +17,16 @@
 	"X_CLOCK" = "X (with Clock)";
 	"Y_CLOCK" = "Y (with Clock)";
 	"ALBUM_ART_SIZE" = "Album Art Size";
+  "MEDIA_CONTROLS_DEFAULT" = "Media Controls (Default)";
+  "MEDIA_CONTROLS_NOTIFICATIONS" = "Media Controls (Notifications)";
+  "WIDTH" = "Width";
+  "HEIGHT" = "Height";
+  "VOLUME_SLIDER" = "Volume Slider";
+  "TINY" = "Tiny";
+  "SMALL" = "Small";
+  "NORMAL" = "Normal";
+  "ALWAYS_SHOW_ALBUM_ART" = "Always Show Album Art";
+  "ALBUM_ART_DEFAULT" = "Album Art (Default)";
+  "ALBUM_ART_WITH_NOTIFICATIONS" = "Album Art (Notifications)";
+  "ALBUM_ART_WITH_CLOCK" = "Album Art (Clock)";
 }
