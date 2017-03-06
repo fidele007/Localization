@@ -11,4 +11,5 @@
 	"ABOUT" = "About Me";
 	"DONATE" = "Donate via PayPal";
 	"CREDITS" = "Credits to translators";
+  "LOCK" = "Lock";
 }

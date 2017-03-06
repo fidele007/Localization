@@ -11,4 +11,5 @@
 	"ABOUT" = "关注我";
 	"DONATE" = "通过PayPal捐赠";
 	"CREDITS" = "翻译人员名单";
+  "LOCK" = "Lock";
 }
