@@ -10,6 +10,7 @@
 	"HOMESCREEN" = "Home Screen";
 	"HOMESCREEN_STATUS_BAR_FOOTER" = "If hiding status bar does not work, try restarting the SpringBoard.";
 	"HIDE_LS_LOCK" = "Hide Lock";
+  "HIDE_TIME_WHILE_PLAYING" = "Hide Time While Playing";
 	"HIDE_STATUS_BAR" = "Hide Status Bar";
 	"CUSTOM_COLOR" = "Custom Color";
 	"FOREGROUND_COLOR" = "Foreground Color";

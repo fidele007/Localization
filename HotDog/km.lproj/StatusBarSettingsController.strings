@@ -9,6 +9,7 @@
 	"HOMESCREEN" = "គេហអេក្រង់";
 	"HOMESCREEN_STATUS_BAR_FOOTER" = "ប្រសិន​បើ​ការ​លាក់​របារ​ស្ថានភាព​មាន​បញ្ហា សូម​សាក​ល្បង​ធ្វើ​ការ Respring ។";
 	"HIDE_LS_LOCK" = "លាក់​រូប​សោ";
+  "HIDE_TIME_WHILE_PLAYING" = "លាក់​ម៉ោង​ពេល​ចាក់​ចម្រៀង";
 	"HIDE_STATUS_BAR" = "លាក់​របារ​ស្ថានភាព";
 	"CUSTOM_COLOR" = "ពណ៌";
 	"FOREGROUND_COLOR" = "ពណ៌​ផ្ទៃ​ខាងមុខ";

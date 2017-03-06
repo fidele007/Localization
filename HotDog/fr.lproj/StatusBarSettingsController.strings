@@ -9,6 +9,7 @@
 	"HOMESCREEN" = "Écran d'accueil";
 	"HOMESCREEN_STATUS_BAR_FOOTER" = "Si la barre de status n'est pas cachée comme il faut, essayez de redémarrer le SpringBoard.";
 	"HIDE_LS_LOCK" = "Cacher le verrou";
+  "HIDE_TIME_WHILE_PLAYING" = "Cacher l'horloge à l'écoute";
 	"HIDE_STATUS_BAR" = "Cacher la barre de statut";
 	"CUSTOM_COLOR" = "Couleur personnalisée";
 	"FOREGROUND_COLOR" = "Couleur de premier plan";
