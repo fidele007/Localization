@@ -14,4 +14,7 @@
 	"LOCK_SCREEN_NOTIFICATIONS_FOOTER" = "Ces options vous permettent de cacher les notifications sur l'écran verrouillé, de ne pas réveiller l'écran lors de la réception des notifications et de sourdiner les sons de notification. Vous pouvez retrouver toutes les notifications dans le Centre de Notifications.";
 	"POSITION_CLOCK" = "Position (avec Horloge)";
 	"POSITION_MEDIA" = "Position (avec Média)";
+  "HIDE_CLIPPING_LINE" = "Cacher la ligne de découpage";
+  "FADE_IN" = "Fade In";
+  "FADE_OUT" = "Fade Out";
 }

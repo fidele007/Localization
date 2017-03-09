@@ -14,4 +14,7 @@
 	"LOCK_SCREEN_NOTIFICATIONS_FOOTER" = "These options will let you hide notifications on lock screen, suppress screen from turning on when receiving notifications and suppress notifications sounds. You can still see all your notifications in the Notification Center.";
 	"POSITION_CLOCK" = "Position (with Clock)";
 	"POSITION_MEDIA" = "Position (with Media)";
+  "HIDE_CLIPPING_LINE" = "Hide Clipping Line";
+  "FADE_IN" = "Fade In";
+  "FADE_OUT" = "Fade Out";
 }

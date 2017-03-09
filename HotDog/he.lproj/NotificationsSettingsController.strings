@@ -14,4 +14,7 @@
 	"LOCK_SCREEN_NOTIFICATIONS_FOOTER" = "אופציות אלו יאפשרו לך להסתיר עדכונים במסך הנעילה, למנוע מהמסך להידלק עם קבלת עדכונים ולמנוע צלילי עדכונים. עדיין באפשרותך לראות את כל העדכונים במרכז העדכונים.";
 	"POSITION_CLOCK" = "מיקום (עם שעון)";
 	"POSITION_MEDIA" = "מיקום (עם מדיה)";
+  "HIDE_CLIPPING_LINE" = "Hide Clipping Line";
+  "FADE_IN" = "Fade In";
+  "FADE_OUT" = "Fade Out";
 }
