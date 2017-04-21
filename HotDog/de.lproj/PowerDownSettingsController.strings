@@ -1,0 +1,7 @@
+{
+	"DEFAULT" = "Standard";
+	"DONE" = "Fertig";
+	"POWERDOWN_TITLE" = "Ausschalt Menü";
+	"SLIDE_TO_TURN_OFF_TEXT" = "Ausschalten";
+	"CANCEL" = "Abbrechen";
+}
