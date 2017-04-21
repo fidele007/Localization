@@ -1,0 +1,12 @@
+{
+	"DEFAULT" = "Standard";
+	"DONE" = "Fertig";
+	"PASSCODE_LOCK_VIEW_TITLE" = "Passcode Anzeige";
+	"PASSCODE_LOCK_VIEW_FOOTER" = "Klick auf Fertig um die Änderungen zu übernehmen, es ist kein Respring nötig. Lass die Textfelder leer um den Standardtext wiederherzustellen.\n\nBenutze \"\\n\" (ohne Anführungszeichen) um Zeilenumbrüche bei Einagbe Passcode und Neuer Versuch einzufügen.";
+	"PASSCODE" = "Eingabe Passcode";
+	"TRY_AGAIN" = "Neuer Versuch";
+	"PASSCODE_TEXT" = "Touch ID oder Code eingeben";
+	"EMERGENCY" = "Notruf";
+	"CANCEL" = "Abbrechen";
+	"DELETE" = "Löschen";
+}
