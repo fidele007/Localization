@@ -1,0 +1,20 @@
+{
+	"DEFAULT" = "Standard";
+	"DONE" = "Fertig";
+	"NOTIFICATIONS_TITLE" = "Benachrichtigungen";
+	"NO_NOTIFICATIONS_TEXT" = "Benachrichtigungen";
+	"RESPRING" = "Respring";
+	"POSITION" = "Position";
+	"ADDED_HEIGHT" = "Höhe hinzufügen";
+	"NOTIFICATIONS_POSITION_FOOTER_TEXT" = "Y changes the vertical coordinate for lock screen notifications view. You can also increase or decrease the height of the notifications view by using Added Height.\n\nY and Added Height can be positive or negative numbers, for example 50 or -50. Remove the entry to reset to its default value.";
+	"LOCK_SCREEN_NOTIFICATIONS" = "Sperrbildschirm Benachrichtigungen";
+	"SUPPRESS_NOTIFICATIONS" = "verstecke Benachrichtigungen";
+	"SUPPRESS_NOTIFICATIONS_WAKE" = "Ünterdrücken, dass der Bildschrim bei Benachrichtigungen automatisch an geht";
+	"SUPPRESS_NOTIFICATIONS_SOUND" = "Benachrichtigungston unterdrücken";
+	"LOCK_SCREEN_NOTIFICATIONS_FOOTER" = "Diese Optionen lassen dich Benachrichtigungen am Sperrbildschirm ausblenden, verhindern dass der Bildschrim bei Benachrichtigungen automatisch an geht und Benachrichtigungstöne unterdrücken. Deine Benachrichtigungen kannst du trotzdem noch im 'Notifcation Center' sehen.";
+	"POSITION_CLOCK" = "Position (mit Uhr)";
+	"POSITION_MEDIA" = "Position (mit Medien/Musik)";
+  "HIDE_CLIPPING_LINE" = "Trennlinie verstecken";
+  "FADE_IN" = "Einblenden";
+  "FADE_OUT" = "Ausblenden";
+}
