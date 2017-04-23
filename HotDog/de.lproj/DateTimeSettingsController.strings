@@ -20,7 +20,7 @@
 	"ALWAYS_SHOW_DATE_FOOTER_TEXT" = "Wärend dem Laden wird auf dem Sperrbildschirm erst die Ladung der Batterie anzeigen, erst dannach Datum & Uhrzeit. Mit dieser Option werden Datum & Uhrzeit sofort angezeigt.";
 	"ALWAYS_SHOW_DATE" = "Zeige Datum sofort";
 	"ENABLE_ALIGNMENT" = "Ausrichtung";
-	"ALIGNMENT_FOOTER" = "Die Ausrichtung ist noch in der Testphase, das heißt es sind Bugs zu erwarten. Bei Aktivierung der Ausrichtung, ist die Position des Texts anders als bei Text ohne Ausrichtung.\n\nWenn du die Ausrichtung rechts auswählst, ist die X Position der Raum zwischen dem rechten Bildschirmrand und dem Text.";
+	"ALIGNMENT_FOOTER" = "Die Funktion Ausrichtung ist noch in der Testphase, das heißt es sind Bugs zu erwarten. Bei Aktivierung der Ausrichtung, ist die Position des Texts anders als bei Text ohne Ausrichtung.\n\nWenn du die Ausrichtung rechts auswählst, ist die X Position der Raum zwischen dem rechten Bildschirmrand und dem Text.";
 	"TIME_LABEL_ALIGNMENT" = "Uhrzeit Label";
 	"DATE_LABEL_ALIGNMENT" = "Datum Label";
 	"LEFT" = "Links";
@@ -38,7 +38,7 @@ Jahr: y:2015, yy:15
 12-Stunden: h:9, hh:09
 24-Stunden: H:1, HH:01
 Minuten: m:4, mm:04
-Sekunden: s:5, ss:05 (only for iOS 8+)
+Sekunden: s:5, ss:05 (nur für iOS 8+)
 AM/PM: a
 Eigener Text: 'Text' (mit Anführungszeichen)
 Neue Zeile: \\n (nur für Datum)
