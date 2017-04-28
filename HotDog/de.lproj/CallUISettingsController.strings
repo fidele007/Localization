@@ -1,0 +1,10 @@
+{
+	"PHONE_UI_TITLE" = "Interface bei Anruf";
+	"SLIDE_TO_ANSWER_TEXT" = "Schieben zum Antworten";
+	"REMIND_ME_LABEL" = "Erinnere mich";
+	"MESSAGE_LABEL" = "Nachricht";
+	"DECLINE_LABEL" = "Ablehnen";
+	"ACCEPT_LABEL" = "Annehmen";
+	"DEFAULT" = "Standard";
+	"DONE" = "Fertig";
+}

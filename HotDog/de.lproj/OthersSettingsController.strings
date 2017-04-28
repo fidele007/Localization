@@ -1,0 +1,23 @@
+{
+	"OTHERS_TITLE" = "Weitere Einstellungen";
+	"GRABBERS" = "Grabbers";
+	"HIDE_NC_GRABBER" = "Verstecke NC Grabber";
+	"HIDE_CC_GRABBER" = "Verstecke CC Grabber";
+	"HIDE_CAMERA_GRABBER" = "Verstecke Kamera Grabber";
+	"DISABLE_CAMERA" = "Kamera deaktivieren";
+	"DISABLE_LOCK_SCREEN_BLUR_RADIUS" = "Sperrbildschirm Blur deaktivieren";
+	"DEFAULT" = "Standard";
+	"DONE" = "Fertig";
+	"CHARGING_VIEW_FOOTER" = "X und Y können positiv und negativ sein, zum Beispiel 50 oder -50. Wenn kein Eintrag erfolgt, werden die Standard Werte genommen.";
+	"TIMER_VIEW_FOOTER" = "X und Y können positiv und negativ sein, zum Beispiel 50 oder -50. Wenn kein Eintrag erfolgt, werden die Standard Werte genommen.";
+	"TIMER_VIEW" = "Timer Anzeige";
+	"CHARGING_VIEW" = "Lade Anzeige";
+	"HIDE_CHARGING_VIEW" = "Verstecke Lade Anzeige";
+	"ALWAYS_SHOW_CHARGING_VIEW" = "Immer zeigen";
+	"LOCKSCREEN_IDLE_DURATION" = "Sperrbildschirm Dauer";
+	"LOCKSCREEN_IDLE_DURATION_FOOTER" = "Diese Option erlaubt dir die Dauer bis sich der Bildschirm auf dem Sperrbildschirm ausschaltet selbst zu bestimmen. Eingabe in Sekunden, für Endlosanzeige -1 verwenden.";
+	"DURATION_NORMAL" = "Dauer (Normal):";
+	"DURATION_DOCKED" = "Dauer (Docked):";
+	"LOCK_SCREEN" = "Sperrbildschirm";
+	"HIDE_PAGE_DOTS" = "Verstecke Page Dots";
+}

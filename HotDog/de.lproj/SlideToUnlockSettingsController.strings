@@ -1,0 +1,18 @@
+{
+	"DEFAULT" = "Standard";
+	"SLIDE_TO_UNLOCK_TITLE" = "Schieben zum Entsperren";
+	"SLIDE_TO_UNLOCK_FOOTER" = "String 1 ersetzt den Standard \"Schieben zum Entsperren\" Text auf dem Sperrbildschirm und String 2 ersetzt den Text wenn die Touch ID nicht erkannt wird.";
+	"SLIDE_TO_UNLOCK_TEXT" = "Schieben zum Entsperren";
+	"CUSTOM_COLOR" = "Eigene Farbe";
+	"PICK_COLOR" = "Farbe wählen";
+	"DONE" = "Fertig";
+	"POSITION" = "Position";
+	"POSITION_FOOTER" = "X und Y können positiv und negativ sein, zum Beispiel 50 oder -50. Wenn kein Eintrag erfolgt, werden die Standard Werte genommen.";
+	"DEFAULT_STRING" = "String 1";
+	"SECONDARY_STRING" = "String 2";
+	"TRY_AGAIN" = "Erneut versuchen";
+	"HIDE_CHEVRON" = "Hide Chevron";
+  "HIDE_PHRASE" = "Text verstecken";
+	"SHOW_IMMEDIATELY" = "Sofort anzeigen";
+	"FONT_SIZE" = "Schriftgröße";
+}

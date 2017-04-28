@@ -1,0 +1,15 @@
+{
+	"STATUS_BAR_TITLE" = "Statusleiste";
+	"LOCKSCREEN_DATETIME_TITLE" = "Sperrbildschirm Datum & Uhrzeit";
+	"SLIDE_TO_UNLOCK_TITLE" = "Schieben zum Entsperren";
+	"PASSCODE_LOCK_VIEW_TITLE" = "Passcode eingabe";
+	"PHONE_UI_TITLE" = "Anruf UI";
+	"NOTIFICATIONS_TITLE" = "Benachrichtigungen";
+	"POWERDOWN_TITLE" = "Ausschalt Anzeige";
+	"MEDIA_CONTROLS_TITLE" = "Medien";
+	"OTHERS_TITLE" = "Andere";
+	"ABOUT" = "Über mich";
+	"DONATE" = "Spenden via PayPal";
+	"CREDITS" = "Credits to translators";
+  "LOCK" = "Sperren";
+}

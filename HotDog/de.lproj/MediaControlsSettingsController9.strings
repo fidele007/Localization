@@ -1,0 +1,32 @@
+{
+	"MEDIA_FOOTER" = "X und Y können positiv und negativ sein, zum Beispiel 50 oder -50. Wenn kein Eintrag erfolgt, werden die Standard Werte genommen.";
+	"MEDIA_CONTROLS_TITLE" = "Medien";
+	"DEFAULT" = "Standard";
+	"DONE" = "Fertig";
+	"MEDIA_CONTROLS_POSITION" = "Medien Steuerung Position";
+	"ALBUM_ART_POSITION" = "Album Cover Position";
+	"VOLUME_SLIDER_POSITION" = "Lautstärkeregler Position";
+	"VOLUME_SLIDER_Y" = "Spacing (Sperrbildschrim)";
+	"CC_VOLUME_SLIDER_Y" = "Spacing (Control Center)";
+	"X_DEFAULT" = "X (Standard)";
+	"Y_DEFAULT" = "Y (Standard)";
+	"X_NOTIFICATIONS" = "X (Benachrichtigungen)";
+	"Y_NOTIFICATIONS" = "Y (Benachrichtigungen)";
+	"X_MEDIA" = "X (mit Medien)";
+	"Y_MEDIA" = "Y (mit Medien)";
+	"X_CLOCK" = "X (mit Uhr)";
+	"Y_CLOCK" = "Y (mit Uhr)";
+	"ALBUM_ART_SIZE" = "Albumcover Größe";
+  "MEDIA_CONTROLS_DEFAULT" = "Medien Steuerung (Standard)";
+  "MEDIA_CONTROLS_NOTIFICATIONS" = "Medien Steuerung (Benachrichtigungen)";
+  "WIDTH" = "Breite";
+  "HEIGHT" = "Höhe";
+  "VOLUME_SLIDER" = "Lautstärkeregler";
+  "TINY" = "Winzig";
+  "SMALL" = "Klein";
+  "NORMAL" = "Normal";
+  "ALWAYS_SHOW_ALBUM_ART" = "Zeige Albumcover immer";
+  "ALBUM_ART_DEFAULT" = "Albumcover (Standard)";
+  "ALBUM_ART_WITH_NOTIFICATIONS" = "Albumcover (Benachrichtigungen)";
+  "ALBUM_ART_WITH_CLOCK" = "Albumcover (Uhr)";
+}

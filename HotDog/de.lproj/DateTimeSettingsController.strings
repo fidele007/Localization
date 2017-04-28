@@ -1,0 +1,51 @@
+{
+  "HIDE_DATE_TIME" = "Datum & Uhrzeitzeit verstecken";
+	"DEFAULT" = "Standard";
+	"DONE" = "Fertig";
+	"LOCKSCREEN_DATETIME_TITLE" = "Sperrbildschirm Datum & Uhrzeit";
+	"TIME_FORMAT" = "Uhrzeit Format";
+	"TIME_FONT_SIZE" = "Uhrzeit Schriftgröße";
+	"DATE_FORMAT" = "Datum Format";
+	"DATE_FONT_SIZE" = "Datum Schriftgröße";
+	"CUSTOM_COLOR" = "Eigene Datum & Uhrzeit Farbe";
+	"PICK_COLOR_DEFAULT" = "Primäre Farbe";
+	"PICK_COLOR_WITH_NOTIFICATION" = "Sekundäre Farbe";
+	"POSITION_DEFAULT" = "Position (Standard)";
+	"POSITION_FOOTER" = "X und Y können positiv und negativ sein, zum Beispiel 50 oder -50. Wenn kein Eintrag erfolgt, werden die Standard Werte genommen.";
+	"FONT_SIZE" = "Schriftgröße";
+	"X_(TIME):" = "X (Uhrzeit):";
+	"Y_(TIME):" = "Y (Uhrzeit):";
+	"X_(DATE):" = "X (Datum):";
+	"Y_(DATE):" = "Y (Datum):";
+	"ALWAYS_SHOW_DATE_FOOTER_TEXT" = "Wärend dem Laden wird auf dem Sperrbildschirm erst die Ladung der Batterie anzeigen, erst dannach Datum & Uhrzeit. Mit dieser Option werden Datum & Uhrzeit sofort angezeigt.";
+	"ALWAYS_SHOW_DATE" = "Zeige Datum sofort";
+	"ENABLE_ALIGNMENT" = "Ausrichtung";
+	"ALIGNMENT_FOOTER" = "Die Funktion Ausrichtung ist noch in der Testphase, das heißt es sind Bugs zu erwarten. Bei Aktivierung der Ausrichtung, ist die Position des Texts anders als bei Text ohne Ausrichtung.\n\nWenn du die Ausrichtung rechts auswählst, ist die X Position der Raum zwischen dem rechten Bildschirmrand und dem Text.";
+	"TIME_LABEL_ALIGNMENT" = "Uhrzeit Label";
+	"DATE_LABEL_ALIGNMENT" = "Datum Label";
+	"LEFT" = "Links";
+	"CENTER" = "Mitte";
+	"RIGHT" = "Rechts";
+	"BOLD_TIME" = "Fettgeschriebene Uhrzeit";
+	"POSITION_WITH_MEDIA" = "Position (mit Medien)";
+	"SHOW_DATE_TIME_WITH_MEDIA" = "Zeige Datum & Uhrzeit bei Medien";
+	"CUSTOM_COLOR_FOOTER" = "Die Primäre Farbe bezieht sich auf die Standardfarben von Datum & Uhrzeit auf dem Sperrbildschirm, während sich die Sekundärfarbe auf die Farbe bei Benachrichtigungen bzw. spielender Musik bezieht.";
+	"LOCKSCREEN_DATETIME_FOOTER" = "Datum & Uhrzeit Format:
+Wochentag: eee:Sat, eeee:Saturday
+Tag des Monats: d:4, dd:04
+Monat: M:4, MM:04, MMM:Apr, MMMM:April, MMMMM:A
+Jahr: y:2015, yy:15
+12-Stunden: h:9, hh:09
+24-Stunden: H:1, HH:01
+Minuten: m:4, mm:04
+Sekunden: s:5, ss:05 (nur für iOS 8+)
+AM/PM: a
+Eigener Text: 'Text' (mit Anführungszeichen)
+Neue Zeile: \\n (nur für Datum)
+
+Beispiel:
+eeee|dd|MMMM|yyyy ==> Monday|13|April|2015
+
+Note:
+Damit das Format richtig übernommen wird solltest du die 24h Uhrzeit in den Einstellungen abschalten: Einstellungen > Allgemein > Datum & Uhrzeitzeit.";
+}
