@@ -1,0 +1,32 @@
+{
+	"DEFAULT" = "Standard";
+	"STATUS_BAR_TITLE" = "Statusbar";
+	"CUSTOM_CARRIER_TEXT" = "Eigener Netzanbieter Text";
+	"STATUS_CLOCK_FORMAT" = "Statusbar Zeit Format";
+	"RESPRING" = "Respring";
+	"LOCKSCREEN" = "Sperrbildschirm";
+	"HOMESCREEN" = "Home Screen";
+	"HOMESCREEN_STATUS_BAR_FOOTER" = "Wenn das ausblenden der Statusbar nicht funktioniert -> Respring.";
+	"HIDE_LS_LOCK" = "Verstecke Schloss";
+  "HIDE_TIME_WHILE_PLAYING" = "Verstecke Zeit wenn Musik spielt";
+	"HIDE_STATUS_BAR" = "Verstecke Status Bar";
+	"CUSTOM_COLOR" = "Eigene Farbe";
+	"FOREGROUND_COLOR" = "Vordergrund Farbe";
+	"BACKGROUND_COLOR" = "Hintergrund Farbe";
+	"SAME_STATUS_BAR_SIZE" = "Kleine Statusbar";
+	"SHOW_TIME_ON_LOCKSCREEN" = "Zeit anzeigen";
+	"STATUS_BAR_FOOTER" = "Statusbar Zeit Format:
+Wochentag: eee:Sat, eeee:Saturday
+Tag des Monats: d:4, dd:04
+Monat: M:4, MM:04, MMM:Apr, MMMM:April, MMMMM:A
+Jahr: y:2015, yy:15
+12-Stunden: h:9, hh:09
+24-Stunden: H:1, HH:01
+Minuten: m:4, mm:04
+Sekunden: s:9, ss:09
+AM/PM: a
+Eigener Text: 'Text'
+
+Beispiel:
+dd|eee|HH:mm ==> 13|Mon|13:05";
+}
