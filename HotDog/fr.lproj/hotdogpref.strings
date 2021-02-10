@@ -9,7 +9,7 @@
 	"MEDIA_CONTROLS_TITLE" = "Média";
 	"OTHERS_TITLE" = "Autres";
 	"ABOUT" = "À propos de moi";
-	"DONATE" = "Donation via PayPal";
+	"DONATE" = "Faire un don via PayPal";
 	"CREDITS" = "Merci aux traducteurs";
   "LOCK" = "Verrouiller";
 }
